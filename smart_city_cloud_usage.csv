@@ -1,0 +1,1466 @@
+Date,Department,Service_Type,Application,Region,Usage_Hours,Cost_INR
+2026-01-01,Traffic,Compute,Traffic Signal AI,India-North,222,4038
+2026-01-01,Surveillance,Database,Surveillance DB,India-East,203,3130
+2026-01-01,Healthcare,Storage,Patient Data Backup,India-West,337,1805
+2026-01-01,Water,Storage,Water Records Backup,India-East,270,2184
+2026-01-01,Transport,Networking,Transport Sensors,India-West,168,1374
+2026-01-02,Traffic,Storage,Traffic Data Logs,India-West,300,1831
+2026-01-02,Healthcare,Compute,Medical Imaging AI,India-South,190,3446
+2026-01-02,Water,Compute,Water Demand AI,India-North,157,3187
+2026-01-02,Transport,Compute,Route AI,India-West,148,4169
+2026-01-02,Electricity,Compute,Smart Grid AI,India-East,231,4190
+2026-01-03,Transport,Storage,Transport Data Backup,India-East,289,1719
+2026-01-03,Healthcare,Storage,Health Backup,India-North,297,1455
+2026-01-03,Water,Storage,Water Records Backup,India-East,411,1201
+2026-01-03,Traffic,Storage,Signal Data Backup,India-West,355,1702
+2026-01-03,Surveillance,Storage,CCTV Footage Storage,India-East,299,2025
+2026-01-04,Water,Networking,Water Sensors,India-East,160,1056
+2026-01-04,Traffic,Database,Traffic Analytics DB,India-South,268,3838
+2026-01-04,Healthcare,Compute,Health AI,India-East,147,4295
+2026-01-05,Surveillance,Compute,AI Monitoring,India-South,245,3030
+2026-01-05,Electricity,Storage,Energy Data Archive,India-East,384,1200
+2026-01-05,Transport,Networking,Transport Sensors,India-South,167,1402
+2026-01-05,Traffic,Database,Signal Records DB,India-East,216,3098
+2026-01-05,Healthcare,Networking,Hospital Network,India-West,154,1512
+2026-01-06,Water,Database,Water DB,India-South,194,3170
+2026-01-06,Traffic,Compute,Traffic Signal AI,India-East,143,3284
+2026-01-06,Transport,Database,Fleet Management DB,India-West,206,3392
+2026-01-06,Surveillance,Database,Surveillance DB,India-West,221,3891
+2026-01-06,Electricity,Compute,Grid Compute,India-North,235,3542
+2026-01-07,Surveillance,Database,CCTV Analytics DB,India-East,245,3681
+2026-01-07,Traffic,Compute,Traffic Prediction AI,India-South,145,3595
+2026-01-07,Water,Networking,Water Sensors,India-East,149,1230
+2026-01-08,Healthcare,Compute,Health AI,India-North,201,3432
+2026-01-08,Transport,Networking,Bus Tracking System,India-South,122,1258
+2026-01-08,Surveillance,Storage,CCTV Storage,India-North,386,1317
+2026-01-08,Water,Compute,Water Demand AI,India-North,245,3483
+2026-01-09,Traffic,Compute,Traffic Prediction AI,India-East,209,4239
+2026-01-09,Electricity,Storage,Energy Data Archive,India-South,378,2153
+2026-01-09,Surveillance,Database,CCTV Analytics DB,India-North,235,3080
+2026-01-09,Healthcare,Compute,Diagnostics AI,India-East,151,4333
+2026-01-09,Transport,Database,Fleet Management DB,India-West,181,3219
+2026-01-10,Surveillance,Database,CCTV Analytics DB,India-East,248,3883
+2026-01-10,Traffic,Storage,Signal Data Backup,India-West,388,1751
+2026-01-10,Transport,Networking,Bus Tracking System,India-South,178,1225
+2026-01-10,Healthcare,Networking,Health IoT Sensors,India-North,139,1302
+2026-01-10,Water,Storage,Water Data Logs,India-North,396,2171
+2026-01-11,Traffic,Compute,Traffic AI,India-North,148,4056
+2026-01-11,Transport,Compute,Route AI,India-West,151,3252
+2026-01-11,Healthcare,Networking,Health IoT Sensors,India-North,176,1372
+2026-01-11,Surveillance,Storage,Video Storage,India-North,291,1262
+2026-01-11,Water,Networking,Water Sensors,India-West,179,901
+2026-01-12,Traffic,Compute,Traffic AI,India-South,211,4243
+2026-01-12,Transport,Storage,Fleet Data Logs,India-East,361,1509
+2026-01-12,Surveillance,Compute,AI Monitoring,India-South,232,3713
+2026-01-12,Electricity,Networking,Grid Sensors,India-West,185,1062
+2026-01-12,Healthcare,Networking,Health IoT Sensors,India-South,152,1479
+2026-01-13,Traffic,Database,Signal Records DB,India-North,201,3749
+2026-01-13,Water,Storage,Water Records Backup,India-West,358,1562
+2026-01-13,Surveillance,Compute,Face Recognition AI,India-East,215,3754
+2026-01-14,Transport,Compute,Route AI,India-North,203,4304
+2026-01-14,Electricity,Compute,Smart Grid Analysis,India-East,158,4339
+2026-01-14,Traffic,Database,Signal Records DB,India-South,196,3171
+2026-01-14,Surveillance,Networking,CCTV Stream Network,India-South,165,1272
+2026-01-15,Traffic,Database,Signal Records DB,India-West,204,3734
+2026-01-15,Healthcare,Compute,Health AI,India-West,192,3406
+2026-01-15,Surveillance,Database,CCTV Analytics DB,India-South,242,3252
+2026-01-15,Transport,Compute,Route AI,India-North,172,4079
+2026-01-16,Healthcare,Compute,Health AI,India-South,182,3045
+2026-01-16,Electricity,Networking,Smart Meter Network,India-South,161,1437
+2026-01-16,Traffic,Storage,Signal Data Backup,India-North,335,1961
+2026-01-16,Transport,Database,Fleet Management DB,India-West,181,3985
+2026-01-17,Water,Storage,Water Data Logs,India-South,285,1684
+2026-01-17,Healthcare,Networking,Health IoT Sensors,India-East,135,1553
+2026-01-17,Transport,Networking,Bus Network,India-North,134,991
+2026-01-17,Electricity,Storage,Grid Logs Backup,India-East,335,1050
+2026-01-17,Traffic,Compute,Traffic Prediction AI,India-North,201,3948
+2026-01-18,Water,Storage,Water Records Backup,India-North,303,2002
+2026-01-18,Electricity,Networking,Smart Meter Network,India-South,127,952
+2026-01-18,Traffic,Networking,Traffic Communication,India-North,187,1249
+2026-01-18,Transport,Database,Fleet Management DB,India-North,219,3819
+2026-01-19,Transport,Database,Fleet Management DB,India-East,180,3057
+2026-01-19,Water,Compute,Leak Detection AI,India-North,158,4427
+2026-01-19,Traffic,Storage,Traffic Data Logs,India-West,366,1790
+2026-01-20,Healthcare,Networking,Health IoT Sensors,India-East,120,1171
+2026-01-20,Water,Compute,Water Demand AI,India-East,202,3380
+2026-01-20,Transport,Storage,Transport Data Backup,India-North,325,1153
+2026-01-20,Electricity,Networking,Smart Meter Network,India-South,176,1184
+2026-01-21,Healthcare,Storage,Health Backup,India-East,393,1217
+2026-01-21,Surveillance,Storage,CCTV Storage,India-South,288,1356
+2026-01-21,Traffic,Database,Signal Records DB,India-West,248,3099
+2026-01-21,Water,Storage,Water Records Backup,India-North,387,1761
+2026-01-22,Traffic,Compute,Traffic Prediction AI,India-North,183,3084
+2026-01-22,Electricity,Database,Energy Usage DB,India-East,246,3576
+2026-01-22,Healthcare,Networking,Hospital Network,India-East,199,1157
+2026-01-22,Water,Compute,Leak Detection AI,India-East,171,4298
+2026-01-22,Transport,Networking,Transport Sensors,India-North,152,1590
+2026-01-23,Healthcare,Database,Smart Health Records,India-South,269,3775
+2026-01-23,Transport,Compute,Route Optimization AI,India-West,229,3821
+2026-01-23,Water,Storage,Water Data Logs,India-South,384,1825
+2026-01-24,Electricity,Networking,Smart Meter Network,India-South,155,1293
+2026-01-24,Healthcare,Compute,Health AI,India-East,203,3538
+2026-01-24,Traffic,Compute,Traffic AI,India-East,175,3777
+2026-01-25,Surveillance,Compute,AI Monitoring,India-South,238,3672
+2026-01-25,Water,Storage,Water Data Logs,India-South,311,1595
+2026-01-25,Traffic,Networking,Traffic Communication,India-West,132,1598
+2026-01-26,Electricity,Compute,Smart Grid Analysis,India-North,155,3368
+2026-01-26,Transport,Database,Transport Analytics DB,India-South,231,3890
+2026-01-26,Water,Storage,Water Data Logs,India-East,301,1850
+2026-01-26,Surveillance,Database,CCTV Analytics DB,India-South,250,3795
+2026-01-26,Healthcare,Storage,Patient Backup,India-East,366,2092
+2026-01-27,Water,Storage,Water Data Logs,India-West,382,2186
+2026-01-27,Traffic,Database,Traffic Analytics DB,India-North,254,3657
+2026-01-27,Electricity,Database,Energy DB,India-South,253,3953
+2026-01-27,Surveillance,Networking,Surveillance Network,India-South,126,1073
+2026-01-27,Healthcare,Compute,Diagnostics AI,India-South,189,3594
+2026-01-28,Traffic,Networking,Traffic Monitoring,India-North,193,1430
+2026-01-28,Electricity,Networking,Grid Sensors,India-West,150,1344
+2026-01-28,Healthcare,Compute,Medical Imaging AI,India-North,228,4124
+2026-01-28,Water,Database,Water Monitoring System,India-South,265,3499
+2026-01-29,Transport,Networking,Transport Sensors,India-West,139,1375
+2026-01-29,Surveillance,Networking,Surveillance Network,India-North,158,900
+2026-01-29,Electricity,Database,Energy Usage DB,India-East,241,3504
+2026-01-29,Traffic,Database,Signal Records DB,India-South,204,3823
+2026-01-29,Water,Compute,Leak Detection AI,India-South,145,2857
+2026-01-30,Electricity,Storage,Energy Data Archive,India-North,413,1046
+2026-01-30,Surveillance,Compute,Face Recognition AI,India-West,154,4238
+2026-01-30,Traffic,Compute,Traffic Signal AI,India-West,142,3455
+2026-01-31,Water,Database,Water Monitoring System,India-South,212,3723
+2026-01-31,Electricity,Networking,Smart Meter Network,India-South,183,1401
+2026-01-31,Healthcare,Networking,Hospital Network,India-West,195,1307
+2026-01-31,Transport,Networking,Bus Tracking System,India-East,155,989
+2026-01-31,Surveillance,Networking,CCTV Stream Network,India-East,169,1439
+2026-02-01,Water,Compute,Leak Detection AI,India-West,208,3281
+2026-02-01,Healthcare,Storage,Health Backup,India-West,358,2048
+2026-02-01,Surveillance,Database,CCTV Analytics DB,India-South,244,3176
+2026-02-02,Water,Database,Water Monitoring System,India-South,216,3750
+2026-02-02,Healthcare,Networking,Health IoT Sensors,India-South,124,1349
+2026-02-02,Surveillance,Database,Surveillance DB,India-South,234,3552
+2026-02-02,Transport,Compute,Route Optimization AI,India-North,166,3522
+2026-02-02,Electricity,Compute,Smart Grid Analysis,India-West,244,3961
+2026-02-03,Healthcare,Storage,Patient Data Backup,India-North,253,1462
+2026-02-03,Electricity,Compute,Smart Grid AI,India-East,234,3933
+2026-02-03,Surveillance,Database,CCTV Analytics DB,India-West,213,3471
+2026-02-03,Transport,Storage,Transport Data Backup,India-North,299,1279
+2026-02-04,Transport,Database,Fleet Management DB,India-South,226,3957
+2026-02-04,Water,Database,Water Monitoring System,India-South,193,3612
+2026-02-04,Surveillance,Database,Surveillance DB,India-North,217,3740
+2026-02-05,Transport,Compute,Route AI,India-West,195,4266
+2026-02-05,Electricity,Database,Energy DB,India-North,260,3163
+2026-02-05,Traffic,Database,Traffic Analytics DB,India-North,242,4032
+2026-02-05,Water,Networking,IoT Water Sensors,India-West,198,1455
+2026-02-06,Water,Storage,Water Data Logs,India-West,375,1052
+2026-02-06,Surveillance,Networking,Surveillance Network,India-North,142,1092
+2026-02-06,Healthcare,Networking,Health IoT Sensors,India-North,135,1433
+2026-02-06,Transport,Networking,Bus Tracking System,India-North,186,1581
+2026-02-07,Electricity,Compute,Smart Grid Analysis,India-West,231,3515
+2026-02-07,Traffic,Compute,Traffic Prediction AI,India-South,209,4379
+2026-02-07,Water,Compute,Water Demand AI,India-East,229,3907
+2026-02-08,Healthcare,Networking,Health IoT Sensors,India-North,171,1214
+2026-02-08,Water,Compute,Water Demand AI,India-West,175,4120
+2026-02-08,Electricity,Database,Energy DB,India-West,242,3077
+2026-02-08,Transport,Storage,Transport Data Backup,India-North,370,1225
+2026-02-09,Traffic,Networking,Traffic Monitoring,India-South,145,1439
+2026-02-09,Transport,Database,Transport Analytics DB,India-North,186,3032
+2026-02-09,Water,Database,Water DB,India-West,197,3540
+2026-02-09,Electricity,Storage,Energy Data Archive,India-North,264,1498
+2026-02-09,Surveillance,Networking,CCTV Stream Network,India-North,176,1183
+2026-02-10,Surveillance,Compute,AI Surveillance,India-East,165,4184
+2026-02-10,Transport,Compute,Route AI,India-North,181,3256
+2026-02-10,Traffic,Database,Signal Records DB,India-West,187,3974
+2026-02-10,Water,Compute,Water Demand AI,India-West,250,3057
+2026-02-10,Electricity,Compute,Smart Grid Analysis,India-East,149,2894
+2026-02-11,Transport,Compute,Bus Tracking System,India-South,161,3106
+2026-02-11,Electricity,Storage,Grid Logs Backup,India-North,361,1530
+2026-02-11,Surveillance,Storage,Video Storage,India-West,311,1362
+2026-02-11,Traffic,Database,Signal Records DB,India-North,188,3795
+2026-02-12,Electricity,Storage,Energy Data Archive,India-South,293,1338
+2026-02-12,Healthcare,Compute,Diagnostics AI,India-North,214,4257
+2026-02-12,Transport,Storage,Fleet Data Logs,India-East,268,1740
+2026-02-12,Traffic,Storage,Signal Data Backup,India-East,324,1013
+2026-02-12,Surveillance,Database,CCTV Analytics DB,India-West,230,3608
+2026-02-13,Transport,Database,Transport Analytics DB,India-South,182,3708
+2026-02-13,Water,Storage,Water Records Backup,India-East,259,1272
+2026-02-13,Surveillance,Storage,CCTV Backup System,India-East,287,1149
+2026-02-14,Water,Storage,Water Records Backup,India-South,312,1341
+2026-02-14,Transport,Compute,Bus Tracking System,India-North,154,4416
+2026-02-14,Traffic,Database,Traffic Analytics DB,India-West,228,3615
+2026-02-14,Healthcare,Storage,Health Backup,India-West,366,1388
+2026-02-14,Electricity,Database,Energy Usage DB,India-West,255,4033
+2026-02-15,Transport,Networking,Bus Tracking System,India-South,161,997
+2026-02-15,Healthcare,Database,Smart Health Records,India-West,205,3608
+2026-02-15,Electricity,Storage,Grid Logs Backup,India-East,288,1631
+2026-02-15,Water,Database,Water Monitoring System,India-South,193,3865
+2026-02-15,Surveillance,Storage,Video Storage,India-South,414,1014
+2026-02-16,Electricity,Database,Energy Usage DB,India-South,204,3175
+2026-02-16,Healthcare,Compute,Medical Imaging AI,India-North,205,3656
+2026-02-16,Traffic,Networking,Signal Network,India-North,170,1107
+2026-02-16,Surveillance,Storage,Video Storage,India-North,291,2058
+2026-02-17,Water,Database,Water Monitoring System,India-West,236,3126
+2026-02-17,Healthcare,Compute,Health AI,India-North,194,3118
+2026-02-17,Surveillance,Storage,CCTV Storage,India-West,315,1531
+2026-02-17,Electricity,Database,Energy DB,India-South,217,3947
+2026-02-17,Traffic,Database,Traffic Analytics DB,India-East,267,3986
+2026-02-18,Healthcare,Networking,Health IoT Sensors,India-North,165,1274
+2026-02-18,Traffic,Storage,Signal Data Backup,India-East,287,2178
+2026-02-18,Water,Database,Water DB,India-South,199,3040
+2026-02-18,Surveillance,Database,Surveillance DB,India-East,215,3830
+2026-02-18,Electricity,Networking,Smart Meter Network,India-West,146,1003
+2026-02-19,Healthcare,Networking,Hospital Network,India-North,195,1267
+2026-02-19,Water,Networking,Water Sensors,India-South,156,1036
+2026-02-19,Electricity,Storage,Energy Data Archive,India-East,280,2033
+2026-02-19,Traffic,Database,Traffic Analytics DB,India-West,219,3328
+2026-02-20,Electricity,Storage,Grid Logs Backup,India-East,306,2044
+2026-02-20,Healthcare,Database,Health Records DB,India-North,219,3949
+2026-02-20,Transport,Compute,Transport AI,India-South,192,3999
+2026-02-20,Surveillance,Storage,CCTV Storage,India-South,366,1955
+2026-02-21,Traffic,Compute,Traffic AI,India-North,161,3499
+2026-02-21,Surveillance,Networking,CCTV Stream Network,India-South,152,1086
+2026-02-21,Healthcare,Compute,Medical Imaging AI,India-North,247,3597
+2026-02-21,Transport,Storage,Transport Data Backup,India-West,411,1359
+2026-02-21,Water,Database,Water Analytics DB,India-East,204,4005
+2026-02-22,Electricity,Compute,Smart Grid Analysis,India-East,225,3307
+2026-02-22,Surveillance,Database,Surveillance DB,India-East,228,3359
+2026-02-22,Healthcare,Compute,Health AI,India-West,226,3266
+2026-02-22,Water,Database,Water DB,India-West,211,3705
+2026-02-23,Surveillance,Networking,Surveillance Network,India-West,157,1558
+2026-02-23,Electricity,Networking,Smart Meter Network,India-West,120,1503
+2026-02-23,Water,Database,Water DB,India-West,245,3536
+2026-02-24,Surveillance,Networking,Surveillance Network,India-South,186,1355
+2026-02-24,Traffic,Database,Signal Records DB,India-West,266,3084
+2026-02-24,Healthcare,Networking,Hospital Network,India-West,126,1260
+2026-02-25,Surveillance,Database,Surveillance DB,India-East,187,3451
+2026-02-25,Electricity,Database,Energy DB,India-East,257,3319
+2026-02-25,Healthcare,Networking,Hospital Network,India-North,135,1364
+2026-02-25,Water,Networking,IoT Water Sensors,India-West,133,915
+2026-02-25,Traffic,Storage,Traffic Data Logs,India-South,400,2129
+2026-02-26,Electricity,Storage,Grid Logs Backup,India-West,386,2096
+2026-02-26,Traffic,Database,Signal Records DB,India-East,184,3842
+2026-02-26,Water,Networking,IoT Water Sensors,India-East,143,1506
+2026-02-26,Healthcare,Storage,Health Backup,India-South,296,1725
+2026-02-26,Surveillance,Networking,Surveillance Network,India-West,121,1383
+2026-02-27,Traffic,Networking,Traffic Communication,India-West,200,1439
+2026-02-27,Electricity,Compute,Smart Grid AI,India-South,164,4223
+2026-02-27,Transport,Compute,Route Optimization AI,India-West,246,3325
+2026-02-27,Surveillance,Networking,CCTV Stream Network,India-West,148,1018
+2026-02-28,Traffic,Compute,Traffic Prediction AI,India-East,180,3770
+2026-02-28,Healthcare,Storage,Patient Data Backup,India-South,402,2016
+2026-02-28,Electricity,Storage,Grid Logs Backup,India-North,366,1354
+2026-02-28,Surveillance,Compute,AI Monitoring,India-South,170,3479
+2026-03-01,Traffic,Compute,Traffic AI,India-West,168,3006
+2026-03-01,Electricity,Database,Energy DB,India-North,215,3174
+2026-03-01,Transport,Storage,Fleet Data Logs,India-West,356,1854
+2026-03-01,Healthcare,Database,Health Records DB,India-South,196,3999
+2026-03-01,Water,Compute,Leak Detection AI,India-West,185,4486
+2026-03-02,Traffic,Storage,Signal Data Backup,India-South,305,1785
+2026-03-02,Transport,Networking,Bus Network,India-North,200,1434
+2026-03-02,Electricity,Compute,Grid Compute,India-West,212,3012
+2026-03-02,Healthcare,Storage,Patient Data Backup,India-South,289,2080
+2026-03-02,Surveillance,Compute,Face Recognition AI,India-South,182,4527
+2026-03-03,Surveillance,Compute,AI Surveillance,India-South,194,4406
+2026-03-03,Electricity,Networking,Grid Sensors,India-North,131,1197
+2026-03-03,Healthcare,Compute,Medical Imaging AI,India-North,188,3831
+2026-03-03,Transport,Database,Transport Analytics DB,India-West,259,3279
+2026-03-04,Electricity,Networking,Grid Sensors,India-East,144,1392
+2026-03-04,Surveillance,Compute,AI Monitoring,India-North,165,3353
+2026-03-04,Healthcare,Compute,Diagnostics AI,India-North,171,3648
+2026-03-04,Water,Networking,IoT Water Sensors,India-South,142,1004
+2026-03-04,Traffic,Storage,Traffic Data Logs,India-West,328,1660
+2026-03-05,Electricity,Database,Energy Usage DB,India-North,219,4064
+2026-03-05,Surveillance,Networking,Surveillance Network,India-East,179,1016
+2026-03-05,Water,Database,Water DB,India-East,218,3596
+2026-03-05,Transport,Database,Fleet Management DB,India-West,218,4073
+2026-03-05,Healthcare,Storage,Patient Backup,India-West,352,2225
+2026-03-06,Traffic,Storage,Traffic Data Logs,India-North,262,2207
+2026-03-06,Water,Storage,Water Records Backup,India-North,419,1575
+2026-03-06,Healthcare,Storage,Patient Data Backup,India-East,419,2173
+2026-03-07,Traffic,Compute,Traffic Prediction AI,India-South,232,3179
+2026-03-07,Electricity,Compute,Smart Grid Analysis,India-East,195,4143
+2026-03-07,Surveillance,Compute,AI Surveillance,India-West,164,4265
+2026-03-07,Transport,Networking,Bus Tracking System,India-South,168,920
+2026-03-08,Traffic,Compute,Traffic Signal AI,India-East,204,3822
+2026-03-08,Water,Storage,Water Data Logs,India-South,392,1852
+2026-03-08,Transport,Compute,Route AI,India-East,151,3045
+2026-03-09,Electricity,Storage,Energy Data Archive,India-East,312,1030
+2026-03-09,Surveillance,Storage,CCTV Footage Storage,India-West,402,1594
+2026-03-09,Water,Networking,IoT Water Sensors,India-East,139,1503
+2026-03-09,Traffic,Storage,Traffic Data Logs,India-North,359,2172
+2026-03-10,Water,Database,Water Analytics DB,India-South,184,3114
+2026-03-10,Transport,Database,Fleet Management DB,India-South,188,3159
+2026-03-10,Electricity,Networking,Grid Sensors,India-South,180,1416
+2026-03-10,Healthcare,Database,Health Records DB,India-West,241,3206
+2026-03-11,Transport,Storage,Fleet Data Logs,India-East,287,1353
+2026-03-11,Traffic,Networking,Traffic Communication,India-South,186,1255
+2026-03-11,Electricity,Storage,Energy Data Archive,India-North,289,1993
+2026-03-11,Surveillance,Compute,Face Recognition AI,India-East,153,4263
+2026-03-11,Healthcare,Storage,Patient Backup,India-South,316,1666
+2026-03-12,Water,Networking,Water Sensors,India-South,147,1521
+2026-03-12,Traffic,Storage,Signal Data Backup,India-South,311,1374
+2026-03-12,Electricity,Database,Energy DB,India-North,235,3099
+2026-03-12,Healthcare,Storage,Patient Backup,India-South,282,1239
+2026-03-12,Surveillance,Database,CCTV Analytics DB,India-East,238,3641
+2026-03-13,Electricity,Database,Energy DB,India-West,211,3429
+2026-03-13,Healthcare,Networking,Health IoT Sensors,India-South,164,948
+2026-03-13,Surveillance,Storage,CCTV Storage,India-North,404,1449
+2026-03-14,Traffic,Compute,Traffic Signal AI,India-East,178,4127
+2026-03-14,Water,Compute,Leak Detection AI,India-North,244,2872
+2026-03-14,Transport,Networking,Bus Network,India-West,179,1373
+2026-03-15,Traffic,Compute,Traffic Prediction AI,India-North,167,3438
+2026-03-15,Electricity,Database,Energy DB,India-South,201,3258
+2026-03-15,Transport,Networking,Transport Sensors,India-East,183,934
+2026-03-16,Electricity,Database,Energy Usage DB,India-East,215,3837
+2026-03-16,Healthcare,Database,Health Records DB,India-South,255,3066
+2026-03-16,Water,Storage,Water Records Backup,India-North,299,1737
+2026-03-16,Transport,Compute,Transport AI,India-South,145,3751
+2026-03-17,Healthcare,Storage,Patient Backup,India-North,330,1781
+2026-03-17,Surveillance,Networking,CCTV Stream Network,India-West,166,1002
+2026-03-17,Transport,Database,Fleet Management DB,India-South,208,3135
+2026-03-17,Electricity,Compute,Grid Compute,India-South,244,2894
+2026-03-17,Traffic,Storage,Signal Data Backup,India-West,278,1545
+2026-03-18,Electricity,Compute,Smart Grid Analysis,India-North,140,3436
+2026-03-18,Traffic,Networking,Traffic Monitoring,India-North,153,1083
+2026-03-18,Surveillance,Networking,Surveillance Network,India-South,143,1451
+2026-03-19,Surveillance,Compute,Face Recognition AI,India-East,199,3240
+2026-03-19,Healthcare,Database,Health Records DB,India-West,194,3215
+2026-03-19,Transport,Compute,Bus Tracking System,India-South,147,3457
+2026-03-19,Traffic,Database,Signal Records DB,India-West,250,3453
+2026-03-20,Water,Networking,IoT Water Sensors,India-East,182,1428
+2026-03-20,Electricity,Compute,Smart Grid AI,India-East,211,3257
+2026-03-20,Transport,Networking,Bus Tracking System,India-South,191,1196
+2026-03-20,Surveillance,Storage,CCTV Storage,India-West,359,1638
+2026-03-21,Traffic,Storage,Signal Data Backup,India-East,397,1705
+2026-03-21,Healthcare,Storage,Patient Data Backup,India-East,260,1237
+2026-03-21,Surveillance,Database,CCTV Analytics DB,India-South,196,3658
+2026-03-21,Electricity,Compute,Smart Grid AI,India-East,218,3458
+2026-03-22,Healthcare,Database,Health Records DB,India-West,194,4072
+2026-03-22,Traffic,Storage,Traffic Data Logs,India-East,298,1342
+2026-03-22,Water,Compute,Water Demand AI,India-South,169,3455
+2026-03-22,Transport,Networking,Transport Sensors,India-West,185,1086
+2026-03-23,Electricity,Database,Energy DB,India-South,255,3328
+2026-03-23,Healthcare,Networking,Hospital Network,India-East,181,1002
+2026-03-23,Transport,Storage,Transport Data Backup,India-North,376,1026
+2026-03-23,Surveillance,Database,CCTV Analytics DB,India-East,183,3456
+2026-03-23,Traffic,Storage,Signal Data Backup,India-West,376,1544
+2026-03-24,Surveillance,Database,CCTV Analytics DB,India-North,223,3664
+2026-03-24,Transport,Storage,Fleet Data Logs,India-South,385,1334
+2026-03-24,Electricity,Storage,Grid Logs Backup,India-North,399,1578
+2026-03-24,Water,Storage,Water Records Backup,India-East,336,1946
+2026-03-24,Healthcare,Compute,Health AI,India-North,158,4477
+2026-03-25,Transport,Database,Fleet Management DB,India-South,233,4037
+2026-03-25,Traffic,Database,Traffic Analytics DB,India-North,255,3892
+2026-03-25,Surveillance,Storage,CCTV Footage Storage,India-North,273,1431
+2026-03-26,Traffic,Networking,Traffic Monitoring,India-South,170,1537
+2026-03-26,Water,Compute,Leak Detection AI,India-West,237,4421
+2026-03-26,Surveillance,Networking,CCTV Stream Network,India-North,153,1217
+2026-03-27,Surveillance,Storage,CCTV Backup System,India-North,286,1872
+2026-03-27,Transport,Networking,Bus Network,India-South,137,1480
+2026-03-27,Traffic,Compute,Traffic AI,India-South,238,3664
+2026-03-27,Electricity,Networking,Grid Sensors,India-East,161,1453
+2026-03-28,Electricity,Compute,Smart Grid Analysis,India-East,205,4065
+2026-03-28,Surveillance,Compute,Face Recognition AI,India-North,204,4331
+2026-03-28,Healthcare,Compute,Medical Imaging AI,India-West,242,3985
+2026-03-28,Water,Storage,Water Data Logs,India-West,394,1927
+2026-03-29,Electricity,Compute,Smart Grid Analysis,India-East,147,3846
+2026-03-29,Transport,Compute,Bus Tracking System,India-East,223,4189
+2026-03-29,Traffic,Networking,Traffic Monitoring,India-South,129,1285
+2026-03-30,Surveillance,Database,Surveillance DB,India-West,240,3993
+2026-03-30,Traffic,Storage,Signal Data Backup,India-West,286,2083
+2026-03-30,Electricity,Compute,Smart Grid Analysis,India-South,183,3014
+2026-03-31,Healthcare,Compute,Health AI,India-North,208,4063
+2026-03-31,Surveillance,Compute,AI Monitoring,India-West,151,3354
+2026-03-31,Electricity,Networking,Smart Meter Network,India-West,162,1045
+2026-03-31,Water,Storage,Water Data Logs,India-West,278,2103
+2026-04-01,Healthcare,Storage,Patient Data Backup,India-North,335,2263
+2026-04-01,Transport,Compute,Transport AI,India-East,168,4300
+2026-04-01,Surveillance,Storage,CCTV Footage Storage,India-North,368,1468
+2026-04-01,Traffic,Database,Signal Records DB,India-West,224,3406
+2026-04-01,Electricity,Networking,Grid Sensors,India-West,127,1277
+2026-04-02,Water,Networking,IoT Water Sensors,India-East,195,1281
+2026-04-02,Electricity,Storage,Grid Logs Backup,India-South,250,2235
+2026-04-02,Traffic,Database,Signal Records DB,India-West,232,3402
+2026-04-02,Transport,Compute,Bus Tracking System,India-West,201,4164
+2026-04-03,Healthcare,Networking,Health IoT Sensors,India-South,196,1089
+2026-04-03,Water,Compute,Water Demand AI,India-East,237,4330
+2026-04-03,Electricity,Storage,Grid Logs Backup,India-East,351,1048
+2026-04-03,Transport,Storage,Fleet Data Logs,India-West,390,2060
+2026-04-04,Transport,Storage,Transport Data Backup,India-North,359,2032
+2026-04-04,Traffic,Compute,Traffic AI,India-East,232,4424
+2026-04-04,Healthcare,Compute,Health AI,India-East,174,2988
+2026-04-04,Electricity,Storage,Grid Logs Backup,India-North,338,1775
+2026-04-04,Surveillance,Database,Surveillance DB,India-East,250,3236
+2026-04-05,Electricity,Networking,Grid Sensors,India-West,189,1573
+2026-04-05,Healthcare,Compute,Diagnostics AI,India-South,151,4074
+2026-04-05,Transport,Storage,Fleet Data Logs,India-South,293,1835
+2026-04-05,Water,Database,Water DB,India-West,225,3601
+2026-04-06,Transport,Compute,Transport AI,India-East,174,4605
+2026-04-06,Surveillance,Database,CCTV Analytics DB,India-North,194,3905
+2026-04-06,Electricity,Networking,Smart Meter Network,India-North,134,1259
+2026-04-06,Healthcare,Compute,Health AI,India-West,158,4281
+2026-04-06,Traffic,Compute,Traffic Signal AI,India-East,249,4492
+2026-04-07,Transport,Storage,Fleet Data Logs,India-East,333,2260
+2026-04-07,Traffic,Database,Traffic Analytics DB,India-East,221,3547
+2026-04-07,Healthcare,Networking,Hospital Network,India-South,194,1196
+2026-04-07,Water,Database,Water Analytics DB,India-North,192,3252
+2026-04-08,Electricity,Storage,Energy Data Archive,India-West,386,2110
+2026-04-08,Healthcare,Compute,Medical Imaging AI,India-West,227,3272
+2026-04-08,Transport,Compute,Bus Tracking System,India-West,211,3039
+2026-04-09,Transport,Compute,Route Optimization AI,India-North,175,3905
+2026-04-09,Electricity,Database,Energy DB,India-East,218,3297
+2026-04-09,Healthcare,Database,Health Records DB,India-South,226,3666
+2026-04-10,Surveillance,Database,Surveillance DB,India-South,197,3949
+2026-04-10,Water,Storage,Water Data Logs,India-West,326,1553
+2026-04-10,Traffic,Compute,Traffic Prediction AI,India-South,141,4267
+2026-04-10,Healthcare,Database,Health Records DB,India-North,211,3627
+2026-04-10,Transport,Compute,Route Optimization AI,India-East,176,4612
+2026-04-11,Surveillance,Database,Surveillance DB,India-East,239,3400
+2026-04-11,Electricity,Database,Energy DB,India-West,221,3385
+2026-04-11,Traffic,Database,Traffic Analytics DB,India-West,215,3855
+2026-04-11,Water,Compute,Water Demand AI,India-East,142,2958
+2026-04-12,Surveillance,Networking,CCTV Stream Network,India-East,124,1366
+2026-04-12,Electricity,Database,Energy DB,India-South,187,3325
+2026-04-12,Transport,Networking,Transport Sensors,India-North,163,1318
+2026-04-13,Healthcare,Compute,Medical Imaging AI,India-East,245,3342
+2026-04-13,Transport,Compute,Bus Tracking System,India-South,170,4249
+2026-04-13,Traffic,Compute,Traffic AI,India-West,226,3002
+2026-04-13,Electricity,Networking,Grid Sensors,India-East,177,1490
+2026-04-14,Transport,Storage,Transport Data Backup,India-North,341,1674
+2026-04-14,Surveillance,Networking,CCTV Stream Network,India-South,184,1577
+2026-04-14,Water,Storage,Water Data Logs,India-East,399,2036
+2026-04-14,Healthcare,Networking,Health IoT Sensors,India-East,152,1399
+2026-04-15,Healthcare,Compute,Medical Imaging AI,India-West,248,4533
+2026-04-15,Water,Compute,Water Demand AI,India-West,230,3666
+2026-04-15,Transport,Compute,Bus Tracking System,India-North,206,4123
+2026-04-15,Traffic,Storage,Traffic Data Logs,India-West,304,1298
+2026-04-16,Transport,Database,Transport Analytics DB,India-North,231,3630
+2026-04-16,Water,Compute,Water Demand AI,India-South,174,3478
+2026-04-16,Surveillance,Networking,CCTV Stream Network,India-West,197,1063
+2026-04-16,Traffic,Compute,Traffic Prediction AI,India-East,250,3460
+2026-04-16,Electricity,Storage,Grid Logs Backup,India-West,284,2246
+2026-04-17,Traffic,Storage,Signal Data Backup,India-West,274,1845
+2026-04-17,Transport,Compute,Route Optimization AI,India-South,175,2980
+2026-04-17,Electricity,Storage,Energy Data Archive,India-West,329,1875
+2026-04-17,Healthcare,Storage,Patient Data Backup,India-East,380,1526
+2026-04-17,Water,Compute,Leak Detection AI,India-South,152,4058
+2026-04-18,Traffic,Storage,Traffic Data Logs,India-East,383,1721
+2026-04-18,Healthcare,Networking,Health IoT Sensors,India-East,131,1057
+2026-04-18,Water,Networking,Water Sensors,India-South,150,1473
+2026-04-18,Electricity,Compute,Grid Compute,India-West,141,3999
+2026-04-19,Electricity,Storage,Energy Data Archive,India-West,375,1739
+2026-04-19,Surveillance,Compute,AI Monitoring,India-East,218,3353
+2026-04-19,Transport,Database,Fleet Management DB,India-South,200,3427
+2026-04-19,Traffic,Networking,Traffic Monitoring,India-West,126,1008
+2026-04-19,Healthcare,Networking,Hospital Network,India-South,123,1559
+2026-04-20,Surveillance,Compute,AI Monitoring,India-West,238,3417
+2026-04-20,Water,Networking,Water Sensors,India-West,169,990
+2026-04-20,Traffic,Database,Signal Records DB,India-West,193,3557
+2026-04-21,Water,Compute,Water Demand AI,India-South,229,3132
+2026-04-21,Traffic,Storage,Traffic Data Logs,India-South,328,1709
+2026-04-21,Electricity,Storage,Energy Data Archive,India-West,369,1957
+2026-04-22,Traffic,Storage,Signal Data Backup,India-East,283,1671
+2026-04-22,Water,Database,Water Monitoring System,India-East,234,3736
+2026-04-22,Electricity,Networking,Grid Sensors,India-South,179,1332
+2026-04-23,Healthcare,Storage,Patient Data Backup,India-West,390,1672
+2026-04-23,Surveillance,Compute,Face Recognition AI,India-East,148,3320
+2026-04-23,Electricity,Compute,Smart Grid AI,India-East,187,2912
+2026-04-23,Transport,Compute,Route Optimization AI,India-West,197,3121
+2026-04-24,Traffic,Database,Signal Records DB,India-East,228,3170
+2026-04-24,Healthcare,Compute,Medical Imaging AI,India-East,184,3363
+2026-04-24,Surveillance,Compute,Face Recognition AI,India-North,240,3945
+2026-04-25,Transport,Networking,Bus Tracking System,India-East,177,1302
+2026-04-25,Electricity,Networking,Smart Meter Network,India-East,134,1143
+2026-04-25,Surveillance,Networking,Surveillance Network,India-East,136,1590
+2026-04-26,Traffic,Compute,Traffic Signal AI,India-West,235,3418
+2026-04-26,Surveillance,Networking,CCTV Stream Network,India-West,200,1155
+2026-04-26,Transport,Networking,Bus Tracking System,India-South,185,1402
+2026-04-26,Healthcare,Storage,Patient Backup,India-South,285,1890
+2026-04-26,Electricity,Storage,Energy Data Archive,India-South,371,1151
+2026-04-27,Traffic,Networking,Signal Network,India-West,141,1352
+2026-04-27,Electricity,Storage,Grid Logs Backup,India-South,409,1390
+2026-04-27,Transport,Networking,Transport Sensors,India-North,129,1207
+2026-04-27,Water,Networking,Water Sensors,India-North,192,1610
+2026-04-28,Traffic,Database,Signal Records DB,India-South,192,3769
+2026-04-28,Healthcare,Database,Smart Health Records,India-South,191,3328
+2026-04-28,Transport,Compute,Transport AI,India-West,171,4166
+2026-04-29,Traffic,Storage,Signal Data Backup,India-North,338,1578
+2026-04-29,Surveillance,Networking,Surveillance Network,India-South,121,1483
+2026-04-29,Water,Compute,Water Demand AI,India-East,166,4516
+2026-04-29,Transport,Database,Fleet Management DB,India-North,202,3179
+2026-04-30,Surveillance,Networking,Surveillance Network,India-North,138,949
+2026-04-30,Transport,Compute,Route Optimization AI,India-North,247,4315
+2026-04-30,Electricity,Compute,Smart Grid Analysis,India-North,147,3255
+2026-05-01,Healthcare,Compute,Health AI,India-East,175,3532
+2026-05-01,Water,Database,Water DB,India-West,220,3235
+2026-05-01,Surveillance,Networking,CCTV Stream Network,India-North,183,1445
+2026-05-01,Transport,Compute,Route Optimization AI,India-South,185,3151
+2026-05-02,Water,Storage,Water Data Logs,India-West,370,2124
+2026-05-02,Electricity,Database,Energy DB,India-North,249,3975
+2026-05-02,Traffic,Database,Traffic Analytics DB,India-West,183,3766
+2026-05-02,Transport,Compute,Route AI,India-East,149,3468
+2026-05-03,Healthcare,Storage,Patient Backup,India-South,287,2018
+2026-05-03,Electricity,Networking,Grid Sensors,India-South,164,955
+2026-05-03,Transport,Compute,Transport AI,India-North,143,4205
+2026-05-03,Traffic,Storage,Traffic Data Logs,India-East,329,1764
+2026-05-04,Transport,Networking,Transport Sensors,India-West,150,954
+2026-05-04,Healthcare,Networking,Health IoT Sensors,India-East,174,1052
+2026-05-04,Water,Networking,Water Sensors,India-North,168,1266
+2026-05-04,Traffic,Storage,Signal Data Backup,India-West,396,1204
+2026-05-04,Surveillance,Storage,Video Storage,India-West,401,2217
+2026-05-05,Transport,Networking,Bus Network,India-North,194,1057
+2026-05-05,Electricity,Compute,Smart Grid Analysis,India-South,209,4246
+2026-05-05,Healthcare,Networking,Hospital Network,India-North,134,1516
+2026-05-05,Water,Storage,Water Records Backup,India-North,352,1181
+2026-05-05,Surveillance,Storage,CCTV Storage,India-South,310,1182
+2026-05-06,Electricity,Storage,Grid Logs Backup,India-South,330,1624
+2026-05-06,Surveillance,Compute,AI Monitoring,India-West,174,4290
+2026-05-06,Traffic,Storage,Traffic Data Logs,India-South,342,1089
+2026-05-06,Healthcare,Compute,Diagnostics AI,India-East,144,3281
+2026-05-07,Transport,Storage,Transport Data Backup,India-South,273,1675
+2026-05-07,Traffic,Storage,Traffic Data Logs,India-West,309,1234
+2026-05-07,Water,Compute,Water Demand AI,India-East,163,3935
+2026-05-07,Healthcare,Networking,Health IoT Sensors,India-West,143,1577
+2026-05-08,Transport,Compute,Route AI,India-East,246,3530
+2026-05-08,Water,Storage,Water Records Backup,India-North,270,1242
+2026-05-08,Surveillance,Networking,CCTV Stream Network,India-East,129,1350
+2026-05-08,Traffic,Storage,Traffic Data Logs,India-West,319,1913
+2026-05-09,Electricity,Database,Energy DB,India-East,254,3272
+2026-05-09,Healthcare,Networking,Health IoT Sensors,India-East,190,1378
+2026-05-09,Surveillance,Storage,CCTV Storage,India-East,377,1186
+2026-05-09,Transport,Compute,Bus Tracking System,India-West,160,4061
+2026-05-10,Transport,Database,Fleet Management DB,India-South,191,3581
+2026-05-10,Healthcare,Compute,Health AI,India-West,207,3841
+2026-05-10,Electricity,Storage,Energy Data Archive,India-North,335,2094
+2026-05-11,Surveillance,Storage,CCTV Footage Storage,India-West,334,1061
+2026-05-11,Water,Compute,Leak Detection AI,India-West,249,3116
+2026-05-11,Electricity,Storage,Energy Data Archive,India-South,416,1223
+2026-05-12,Electricity,Database,Energy DB,India-East,267,4092
+2026-05-12,Traffic,Storage,Signal Data Backup,India-North,387,1674
+2026-05-12,Water,Networking,IoT Water Sensors,India-North,168,968
+2026-05-13,Electricity,Database,Energy DB,India-East,221,3355
+2026-05-13,Traffic,Storage,Signal Data Backup,India-West,392,1430
+2026-05-13,Healthcare,Networking,Health IoT Sensors,India-North,133,1331
+2026-05-13,Water,Compute,Leak Detection AI,India-West,167,4002
+2026-05-13,Surveillance,Compute,AI Monitoring,India-West,164,4240
+2026-05-14,Surveillance,Networking,Surveillance Network,India-East,191,1524
+2026-05-14,Water,Compute,Water Demand AI,India-North,187,3158
+2026-05-14,Healthcare,Database,Smart Health Records,India-North,190,3643
+2026-05-14,Transport,Networking,Transport Sensors,India-East,143,1463
+2026-05-15,Transport,Networking,Bus Network,India-South,123,1315
+2026-05-15,Healthcare,Compute,Health AI,India-North,147,3548
+2026-05-15,Traffic,Storage,Traffic Data Logs,India-East,380,1951
+2026-05-15,Water,Database,Water DB,India-West,219,3624
+2026-05-16,Electricity,Networking,Smart Meter Network,India-South,144,1071
+2026-05-16,Healthcare,Storage,Health Backup,India-West,308,1295
+2026-05-16,Transport,Database,Transport Analytics DB,India-South,242,3232
+2026-05-16,Surveillance,Database,Surveillance DB,India-South,209,3398
+2026-05-17,Transport,Storage,Fleet Data Logs,India-South,258,1710
+2026-05-17,Water,Database,Water Monitoring System,India-North,245,4099
+2026-05-17,Surveillance,Networking,CCTV Stream Network,India-South,122,1546
+2026-05-18,Traffic,Compute,Traffic Signal AI,India-North,191,3478
+2026-05-18,Water,Compute,Water Demand AI,India-North,221,4302
+2026-05-18,Healthcare,Database,Smart Health Records,India-North,227,4050
+2026-05-18,Electricity,Storage,Energy Data Archive,India-South,357,1935
+2026-05-19,Healthcare,Database,Health Records DB,India-North,242,3673
+2026-05-19,Traffic,Database,Traffic Analytics DB,India-East,237,4076
+2026-05-19,Surveillance,Networking,Surveillance Network,India-North,189,1144
+2026-05-19,Transport,Storage,Fleet Data Logs,India-North,417,1296
+2026-05-19,Electricity,Networking,Grid Sensors,India-South,191,1600
+2026-05-20,Electricity,Storage,Grid Logs Backup,India-East,394,1612
+2026-05-20,Water,Compute,Water Demand AI,India-East,216,4191
+2026-05-20,Surveillance,Storage,Video Storage,India-South,383,1266
+2026-05-20,Healthcare,Database,Smart Health Records,India-North,225,3690
+2026-05-20,Transport,Storage,Fleet Data Logs,India-South,321,1769
+2026-05-21,Healthcare,Compute,Medical Imaging AI,India-East,158,3891
+2026-05-21,Traffic,Database,Traffic Analytics DB,India-West,198,3860
+2026-05-21,Electricity,Networking,Grid Sensors,India-South,190,1000
+2026-05-21,Surveillance,Networking,CCTV Stream Network,India-West,145,1573
+2026-05-21,Transport,Database,Transport Analytics DB,India-East,262,3765
+2026-05-22,Water,Compute,Leak Detection AI,India-South,191,3003
+2026-05-22,Surveillance,Storage,Video Storage,India-South,327,1269
+2026-05-22,Electricity,Compute,Grid Compute,India-East,231,3445
+2026-05-22,Traffic,Compute,Traffic Signal AI,India-West,225,4633
+2026-05-23,Electricity,Compute,Smart Grid Analysis,India-South,148,4312
+2026-05-23,Healthcare,Database,Smart Health Records,India-East,229,3606
+2026-05-23,Water,Database,Water Monitoring System,India-South,227,3406
+2026-05-23,Surveillance,Compute,AI Monitoring,India-East,172,3964
+2026-05-23,Traffic,Database,Traffic Analytics DB,India-West,267,3618
+2026-05-24,Healthcare,Networking,Health IoT Sensors,India-South,170,1072
+2026-05-24,Water,Database,Water Monitoring System,India-North,205,3971
+2026-05-24,Traffic,Compute,Traffic Prediction AI,India-East,160,4547
+2026-05-25,Healthcare,Storage,Health Backup,India-North,385,1415
+2026-05-25,Traffic,Compute,Traffic AI,India-West,247,3112
+2026-05-25,Water,Networking,Water Sensors,India-North,174,1310
+2026-05-25,Surveillance,Compute,AI Monitoring,India-West,145,3133
+2026-05-25,Transport,Compute,Route Optimization AI,India-South,200,3722
+2026-05-26,Water,Compute,Water Demand AI,India-West,188,4290
+2026-05-26,Electricity,Compute,Smart Grid AI,India-East,182,3331
+2026-05-26,Surveillance,Networking,CCTV Stream Network,India-North,167,1651
+2026-05-27,Electricity,Compute,Smart Grid Analysis,India-East,160,3762
+2026-05-27,Water,Storage,Water Records Backup,India-North,303,1436
+2026-05-27,Healthcare,Compute,Health AI,India-East,176,3760
+2026-05-28,Healthcare,Database,Smart Health Records,India-South,225,3698
+2026-05-28,Surveillance,Compute,AI Monitoring,India-East,211,3385
+2026-05-28,Water,Compute,Water Demand AI,India-South,151,3373
+2026-05-28,Electricity,Networking,Smart Meter Network,India-South,188,1475
+2026-05-28,Transport,Compute,Transport AI,India-West,226,4672
+2026-05-29,Healthcare,Networking,Hospital Network,India-South,155,1552
+2026-05-29,Water,Compute,Water Demand AI,India-North,167,3884
+2026-05-29,Transport,Networking,Bus Tracking System,India-South,195,1328
+2026-05-30,Surveillance,Storage,CCTV Footage Storage,India-South,261,1474
+2026-05-30,Water,Storage,Water Data Logs,India-East,343,1346
+2026-05-30,Electricity,Storage,Energy Data Archive,India-West,370,1840
+2026-05-30,Transport,Storage,Fleet Data Logs,India-North,324,1985
+2026-05-30,Healthcare,Networking,Hospital Network,India-North,121,1564
+2026-05-31,Electricity,Compute,Smart Grid AI,India-South,234,3868
+2026-05-31,Healthcare,Database,Health Records DB,India-South,217,3946
+2026-05-31,Surveillance,Compute,AI Surveillance,India-North,157,3347
+2026-05-31,Water,Database,Water Monitoring System,India-North,252,4105
+2026-05-31,Transport,Storage,Fleet Data Logs,India-West,357,1241
+2026-06-01,Electricity,Storage,Grid Logs Backup,India-West,412,2106
+2026-06-01,Water,Database,Water DB,India-West,190,4006
+2026-06-01,Healthcare,Storage,Patient Data Backup,India-North,414,1923
+2026-06-01,Transport,Compute,Route Optimization AI,India-East,172,3651
+2026-06-01,Surveillance,Compute,AI Monitoring,India-East,158,4716
+2026-06-02,Traffic,Networking,Traffic Monitoring,India-South,150,1351
+2026-06-02,Water,Compute,Water Demand AI,India-West,208,3911
+2026-06-02,Surveillance,Networking,CCTV Stream Network,India-North,186,1022
+2026-06-03,Traffic,Database,Signal Records DB,India-North,230,4007
+2026-06-03,Healthcare,Storage,Patient Backup,India-South,392,1306
+2026-06-03,Transport,Storage,Fleet Data Logs,India-South,371,1180
+2026-06-04,Healthcare,Storage,Health Backup,India-East,362,1885
+2026-06-04,Transport,Compute,Transport AI,India-North,156,3053
+2026-06-04,Water,Networking,Water Sensors,India-West,187,1016
+2026-06-05,Water,Storage,Water Data Logs,India-North,336,2043
+2026-06-05,Electricity,Database,Energy DB,India-West,211,3263
+2026-06-05,Surveillance,Database,CCTV Analytics DB,India-South,264,4138
+2026-06-06,Healthcare,Networking,Hospital Network,India-East,143,1117
+2026-06-06,Water,Database,Water DB,India-South,196,3252
+2026-06-06,Transport,Database,Fleet Management DB,India-East,207,3691
+2026-06-06,Surveillance,Networking,Surveillance Network,India-South,182,1237
+2026-06-06,Traffic,Compute,Traffic AI,India-South,250,3848
+2026-06-07,Water,Database,Water DB,India-East,184,4174
+2026-06-07,Traffic,Database,Signal Records DB,India-West,200,3944
+2026-06-07,Healthcare,Networking,Health IoT Sensors,India-South,130,1663
+2026-06-08,Water,Database,Water DB,India-West,227,3799
+2026-06-08,Traffic,Networking,Traffic Monitoring,India-North,174,1183
+2026-06-08,Transport,Storage,Transport Data Backup,India-South,400,1467
+2026-06-09,Electricity,Database,Energy Usage DB,India-West,270,3235
+2026-06-09,Transport,Networking,Bus Network,India-North,123,1327
+2026-06-09,Surveillance,Database,CCTV Analytics DB,India-North,252,4030
+2026-06-09,Healthcare,Networking,Health IoT Sensors,India-South,200,1098
+2026-06-09,Traffic,Database,Signal Records DB,India-North,238,4027
+2026-06-10,Electricity,Storage,Energy Data Archive,India-East,418,1779
+2026-06-10,Surveillance,Database,CCTV Analytics DB,India-West,221,3484
+2026-06-10,Traffic,Storage,Signal Data Backup,India-West,342,1766
+2026-06-11,Healthcare,Storage,Patient Data Backup,India-East,320,1618
+2026-06-11,Electricity,Database,Energy Usage DB,India-South,215,3175
+2026-06-11,Surveillance,Compute,Face Recognition AI,India-North,176,3087
+2026-06-11,Transport,Networking,Bus Tracking System,India-East,192,1077
+2026-06-12,Traffic,Database,Traffic Analytics DB,India-West,225,4171
+2026-06-12,Healthcare,Networking,Hospital Network,India-West,194,1316
+2026-06-12,Transport,Networking,Bus Network,India-West,179,1663
+2026-06-13,Water,Storage,Water Data Logs,India-North,385,2071
+2026-06-13,Electricity,Storage,Grid Logs Backup,India-South,360,1582
+2026-06-13,Surveillance,Storage,CCTV Backup System,India-East,393,1387
+2026-06-13,Traffic,Networking,Traffic Monitoring,India-East,136,1337
+2026-06-14,Surveillance,Compute,Face Recognition AI,India-South,169,3397
+2026-06-14,Electricity,Compute,Smart Grid Analysis,India-North,192,4342
+2026-06-14,Traffic,Compute,Traffic Prediction AI,India-North,220,3131
+2026-06-14,Healthcare,Database,Health Records DB,India-West,253,3159
+2026-06-15,Traffic,Storage,Signal Data Backup,India-West,302,1477
+2026-06-15,Water,Database,Water Analytics DB,India-West,242,3421
+2026-06-15,Surveillance,Compute,AI Monitoring,India-North,147,4503
+2026-06-15,Transport,Networking,Bus Network,India-North,197,1248
+2026-06-16,Traffic,Storage,Traffic Data Logs,India-East,370,2289
+2026-06-16,Electricity,Database,Energy DB,India-West,187,4132
+2026-06-16,Healthcare,Compute,Medical Imaging AI,India-South,232,4175
+2026-06-16,Transport,Storage,Fleet Data Logs,India-West,287,1268
+2026-06-17,Surveillance,Database,CCTV Analytics DB,India-East,247,3791
+2026-06-17,Transport,Storage,Transport Data Backup,India-North,390,2211
+2026-06-17,Electricity,Compute,Smart Grid AI,India-East,195,3664
+2026-06-17,Water,Compute,Water Demand AI,India-West,226,3167
+2026-06-17,Healthcare,Compute,Health AI,India-East,230,3602
+2026-06-18,Transport,Networking,Bus Tracking System,India-North,166,1464
+2026-06-18,Water,Networking,IoT Water Sensors,India-North,131,1251
+2026-06-18,Traffic,Storage,Traffic Data Logs,India-South,297,1963
+2026-06-18,Electricity,Compute,Grid Compute,India-South,233,3498
+2026-06-18,Healthcare,Compute,Health AI,India-East,247,3488
+2026-06-19,Transport,Database,Fleet Management DB,India-South,261,3927
+2026-06-19,Surveillance,Compute,AI Monitoring,India-West,155,3620
+2026-06-19,Traffic,Compute,Traffic Prediction AI,India-North,193,3938
+2026-06-19,Electricity,Storage,Energy Data Archive,India-East,358,2305
+2026-06-20,Transport,Storage,Transport Data Backup,India-East,319,2035
+2026-06-20,Healthcare,Compute,Diagnostics AI,India-West,204,3312
+2026-06-20,Water,Compute,Leak Detection AI,India-North,238,4565
+2026-06-21,Water,Storage,Water Data Logs,India-South,380,1165
+2026-06-21,Electricity,Networking,Grid Sensors,India-West,200,1361
+2026-06-21,Transport,Storage,Fleet Data Logs,India-South,414,2231
+2026-06-22,Transport,Compute,Route AI,India-West,199,3839
+2026-06-22,Water,Storage,Water Data Logs,India-East,368,2287
+2026-06-22,Healthcare,Networking,Health IoT Sensors,India-South,177,1471
+2026-06-22,Surveillance,Compute,AI Surveillance,India-North,186,3721
+2026-06-23,Surveillance,Storage,Video Storage,India-East,306,1061
+2026-06-23,Water,Networking,Water Sensors,India-North,196,1623
+2026-06-23,Electricity,Networking,Smart Meter Network,India-North,192,1111
+2026-06-23,Traffic,Database,Signal Records DB,India-South,266,3914
+2026-06-24,Transport,Networking,Transport Sensors,India-East,128,1606
+2026-06-24,Traffic,Compute,Traffic AI,India-East,226,4243
+2026-06-24,Surveillance,Compute,Face Recognition AI,India-West,237,3371
+2026-06-25,Traffic,Networking,Traffic Monitoring,India-South,136,1543
+2026-06-25,Transport,Storage,Fleet Data Logs,India-North,355,1076
+2026-06-25,Healthcare,Compute,Diagnostics AI,India-North,184,4370
+2026-06-26,Surveillance,Networking,Surveillance Network,India-North,184,995
+2026-06-26,Traffic,Database,Signal Records DB,India-West,267,3608
+2026-06-26,Water,Networking,IoT Water Sensors,India-North,150,1457
+2026-06-26,Electricity,Storage,Grid Logs Backup,India-West,363,1054
+2026-06-26,Healthcare,Networking,Hospital Network,India-South,194,1204
+2026-06-27,Transport,Storage,Fleet Data Logs,India-South,257,1566
+2026-06-27,Water,Storage,Water Records Backup,India-West,295,1052
+2026-06-27,Healthcare,Database,Health Records DB,India-South,200,3734
+2026-06-27,Electricity,Compute,Smart Grid AI,India-West,201,3566
+2026-06-28,Traffic,Database,Traffic Analytics DB,India-West,261,3310
+2026-06-28,Surveillance,Storage,Video Storage,India-North,405,1334
+2026-06-28,Healthcare,Networking,Health IoT Sensors,India-East,167,1674
+2026-06-28,Water,Networking,IoT Water Sensors,India-West,181,1292
+2026-06-28,Transport,Database,Fleet Management DB,India-South,197,3168
+2026-06-29,Transport,Networking,Transport Sensors,India-West,127,1092
+2026-06-29,Traffic,Storage,Signal Data Backup,India-West,345,1568
+2026-06-29,Surveillance,Compute,AI Surveillance,India-South,246,3196
+2026-06-29,Water,Storage,Water Data Logs,India-North,288,1671
+2026-06-30,Transport,Storage,Transport Data Backup,India-North,370,1415
+2026-06-30,Traffic,Networking,Traffic Monitoring,India-North,191,1577
+2026-06-30,Surveillance,Database,CCTV Analytics DB,India-South,224,3159
+2026-06-30,Water,Networking,IoT Water Sensors,India-South,193,1519
+2026-06-30,Healthcare,Compute,Diagnostics AI,India-North,182,3117
+2026-07-01,Transport,Database,Fleet Management DB,India-West,257,3196
+2026-07-01,Electricity,Networking,Smart Meter Network,India-South,190,1381
+2026-07-01,Traffic,Compute,Traffic Prediction AI,India-North,238,4714
+2026-07-02,Surveillance,Storage,CCTV Storage,India-South,363,2205
+2026-07-02,Water,Storage,Water Data Logs,India-East,365,1392
+2026-07-02,Healthcare,Database,Smart Health Records,India-South,184,4122
+2026-07-02,Traffic,Compute,Traffic Signal AI,India-West,237,4043
+2026-07-03,Water,Database,Water DB,India-South,255,3477
+2026-07-03,Surveillance,Database,Surveillance DB,India-South,239,3389
+2026-07-03,Healthcare,Database,Smart Health Records,India-North,205,3764
+2026-07-04,Traffic,Database,Signal Records DB,India-East,187,3765
+2026-07-04,Healthcare,Networking,Health IoT Sensors,India-East,165,1476
+2026-07-04,Surveillance,Compute,AI Monitoring,India-East,154,3413
+2026-07-05,Transport,Database,Fleet Management DB,India-East,202,4108
+2026-07-05,Surveillance,Networking,CCTV Stream Network,India-South,143,1521
+2026-07-05,Traffic,Storage,Signal Data Backup,India-North,283,1517
+2026-07-06,Electricity,Compute,Smart Grid Analysis,India-East,193,4397
+2026-07-06,Water,Compute,Water Demand AI,India-West,179,3381
+2026-07-06,Traffic,Database,Signal Records DB,India-South,240,3403
+2026-07-07,Electricity,Networking,Grid Sensors,India-West,173,1653
+2026-07-07,Healthcare,Database,Health Records DB,India-North,220,4201
+2026-07-07,Traffic,Compute,Traffic AI,India-West,189,4626
+2026-07-07,Surveillance,Storage,CCTV Footage Storage,India-South,361,1277
+2026-07-07,Transport,Compute,Route Optimization AI,India-East,186,4636
+2026-07-08,Healthcare,Networking,Health IoT Sensors,India-South,140,1061
+2026-07-08,Electricity,Networking,Grid Sensors,India-West,136,1546
+2026-07-08,Traffic,Database,Signal Records DB,India-South,260,3869
+2026-07-09,Surveillance,Database,CCTV Analytics DB,India-West,194,3280
+2026-07-09,Electricity,Database,Energy Usage DB,India-West,180,3610
+2026-07-09,Transport,Storage,Transport Data Backup,India-South,375,1390
+2026-07-10,Healthcare,Compute,Diagnostics AI,India-West,223,4378
+2026-07-10,Transport,Compute,Transport AI,India-South,202,3561
+2026-07-10,Electricity,Networking,Grid Sensors,India-North,174,1156
+2026-07-11,Healthcare,Networking,Hospital Network,India-East,187,1344
+2026-07-11,Electricity,Database,Energy Usage DB,India-East,214,3696
+2026-07-11,Transport,Storage,Fleet Data Logs,India-South,263,1773
+2026-07-12,Transport,Storage,Fleet Data Logs,India-South,313,1757
+2026-07-12,Surveillance,Compute,Face Recognition AI,India-South,166,4408
+2026-07-12,Healthcare,Compute,Health AI,India-South,179,3326
+2026-07-13,Electricity,Networking,Smart Meter Network,India-West,141,1284
+2026-07-13,Transport,Compute,Route AI,India-North,217,3364
+2026-07-13,Healthcare,Database,Health Records DB,India-East,262,3368
+2026-07-13,Traffic,Storage,Signal Data Backup,India-East,321,2275
+2026-07-13,Surveillance,Compute,Face Recognition AI,India-East,192,3317
+2026-07-14,Healthcare,Compute,Health AI,India-East,217,4125
+2026-07-14,Transport,Storage,Fleet Data Logs,India-North,282,1111
+2026-07-14,Surveillance,Networking,Surveillance Network,India-North,188,1429
+2026-07-15,Transport,Compute,Route AI,India-West,201,4761
+2026-07-15,Surveillance,Networking,CCTV Stream Network,India-North,193,1335
+2026-07-15,Water,Database,Water DB,India-West,266,3606
+2026-07-15,Healthcare,Networking,Hospital Network,India-South,139,983
+2026-07-16,Water,Networking,Water Sensors,India-South,188,1039
+2026-07-16,Healthcare,Storage,Patient Data Backup,India-South,320,2139
+2026-07-16,Electricity,Database,Energy DB,India-West,268,4030
+2026-07-16,Transport,Networking,Transport Sensors,India-East,143,1574
+2026-07-17,Transport,Database,Fleet Management DB,India-North,199,4225
+2026-07-17,Traffic,Compute,Traffic Prediction AI,India-East,247,3394
+2026-07-17,Electricity,Networking,Smart Meter Network,India-North,185,1391
+2026-07-17,Water,Compute,Leak Detection AI,India-West,206,4194
+2026-07-18,Surveillance,Networking,Surveillance Network,India-North,141,1599
+2026-07-18,Traffic,Compute,Traffic AI,India-North,161,3970
+2026-07-18,Healthcare,Networking,Hospital Network,India-South,178,1058
+2026-07-18,Transport,Database,Transport Analytics DB,India-West,208,3658
+2026-07-18,Electricity,Compute,Grid Compute,India-West,228,3248
+2026-07-19,Surveillance,Compute,AI Monitoring,India-South,148,4226
+2026-07-19,Water,Database,Water Monitoring System,India-West,215,3256
+2026-07-19,Healthcare,Compute,Diagnostics AI,India-West,171,3244
+2026-07-19,Electricity,Networking,Grid Sensors,India-South,193,1345
+2026-07-20,Surveillance,Networking,Surveillance Network,India-South,142,1070
+2026-07-20,Water,Compute,Leak Detection AI,India-West,223,4574
+2026-07-20,Electricity,Networking,Grid Sensors,India-South,162,1352
+2026-07-20,Traffic,Compute,Traffic AI,India-South,166,3936
+2026-07-20,Transport,Database,Fleet Management DB,India-East,194,3861
+2026-07-21,Electricity,Networking,Grid Sensors,India-East,194,1017
+2026-07-21,Water,Storage,Water Data Logs,India-West,307,2315
+2026-07-21,Transport,Database,Transport Analytics DB,India-West,227,3712
+2026-07-21,Surveillance,Storage,CCTV Backup System,India-West,376,1350
+2026-07-21,Healthcare,Networking,Health IoT Sensors,India-North,196,1487
+2026-07-22,Transport,Compute,Route Optimization AI,India-South,148,3569
+2026-07-22,Traffic,Storage,Traffic Data Logs,India-South,288,1902
+2026-07-22,Electricity,Networking,Smart Meter Network,India-West,127,1685
+2026-07-22,Healthcare,Storage,Health Backup,India-South,322,1598
+2026-07-23,Water,Database,Water Analytics DB,India-West,219,3624
+2026-07-23,Electricity,Storage,Grid Logs Backup,India-North,286,1156
+2026-07-23,Healthcare,Storage,Health Backup,India-North,399,1601
+2026-07-23,Traffic,Database,Signal Records DB,India-South,256,3997
+2026-07-23,Surveillance,Storage,CCTV Storage,India-North,310,1986
+2026-07-24,Traffic,Compute,Traffic Prediction AI,India-East,160,3223
+2026-07-24,Surveillance,Database,CCTV Analytics DB,India-West,180,3829
+2026-07-24,Transport,Storage,Transport Data Backup,India-East,406,1742
+2026-07-24,Water,Database,Water DB,India-South,226,3810
+2026-07-25,Electricity,Storage,Energy Data Archive,India-West,307,1914
+2026-07-25,Traffic,Database,Signal Records DB,India-South,215,3838
+2026-07-25,Transport,Networking,Bus Tracking System,India-South,174,1529
+2026-07-25,Surveillance,Compute,Face Recognition AI,India-South,202,3022
+2026-07-25,Healthcare,Networking,Hospital Network,India-North,175,1520
+2026-07-26,Water,Database,Water Monitoring System,India-North,218,3880
+2026-07-26,Surveillance,Compute,AI Surveillance,India-South,181,3059
+2026-07-26,Electricity,Compute,Grid Compute,India-East,206,3405
+2026-07-27,Surveillance,Database,Surveillance DB,India-East,225,3573
+2026-07-27,Electricity,Database,Energy DB,India-North,224,3604
+2026-07-27,Water,Database,Water Monitoring System,India-West,185,3836
+2026-07-28,Surveillance,Storage,Video Storage,India-North,296,1862
+2026-07-28,Transport,Storage,Transport Data Backup,India-West,277,2156
+2026-07-28,Water,Database,Water Analytics DB,India-North,257,3850
+2026-07-28,Electricity,Storage,Energy Data Archive,India-East,364,2046
+2026-07-29,Surveillance,Compute,AI Monitoring,India-South,201,4562
+2026-07-29,Traffic,Database,Traffic Analytics DB,India-West,219,3364
+2026-07-29,Healthcare,Storage,Patient Data Backup,India-South,347,1208
+2026-07-29,Transport,Storage,Transport Data Backup,India-West,342,1312
+2026-07-29,Electricity,Compute,Smart Grid Analysis,India-South,203,4388
+2026-07-30,Transport,Database,Fleet Management DB,India-North,182,3398
+2026-07-30,Healthcare,Storage,Patient Data Backup,India-North,256,1924
+2026-07-30,Electricity,Database,Energy Usage DB,India-South,241,3739
+2026-07-31,Surveillance,Database,CCTV Analytics DB,India-North,250,3940
+2026-07-31,Healthcare,Networking,Hospital Network,India-South,199,1403
+2026-07-31,Traffic,Networking,Traffic Communication,India-West,147,1030
+2026-08-01,Electricity,Database,Energy Usage DB,India-North,232,4216
+2026-08-01,Transport,Storage,Transport Data Backup,India-East,395,1534
+2026-08-01,Traffic,Networking,Traffic Monitoring,India-East,127,1533
+2026-08-02,Transport,Networking,Bus Tracking System,India-South,164,1049
+2026-08-02,Surveillance,Storage,CCTV Footage Storage,India-South,328,1638
+2026-08-02,Water,Networking,IoT Water Sensors,India-North,186,965
+2026-08-02,Healthcare,Storage,Health Backup,India-East,289,1132
+2026-08-03,Electricity,Storage,Grid Logs Backup,India-South,361,1932
+2026-08-03,Water,Database,Water Monitoring System,India-East,187,3424
+2026-08-03,Transport,Networking,Bus Network,India-East,180,1501
+2026-08-03,Surveillance,Database,CCTV Analytics DB,India-West,228,4177
+2026-08-03,Traffic,Database,Traffic Analytics DB,India-East,270,3651
+2026-08-04,Surveillance,Networking,CCTV Stream Network,India-South,178,1585
+2026-08-04,Healthcare,Networking,Health IoT Sensors,India-North,125,1434
+2026-08-04,Transport,Compute,Route AI,India-North,234,3956
+2026-08-04,Water,Compute,Leak Detection AI,India-West,175,3519
+2026-08-05,Water,Compute,Water Demand AI,India-West,155,4647
+2026-08-05,Traffic,Networking,Signal Network,India-South,159,1215
+2026-08-05,Healthcare,Database,Health Records DB,India-West,255,3904
+2026-08-06,Surveillance,Compute,AI Surveillance,India-West,152,3982
+2026-08-06,Electricity,Database,Energy Usage DB,India-West,246,3446
+2026-08-06,Transport,Compute,Bus Tracking System,India-West,184,3161
+2026-08-06,Healthcare,Database,Health Records DB,India-North,197,3549
+2026-08-06,Water,Networking,IoT Water Sensors,India-East,181,1502
+2026-08-07,Transport,Database,Transport Analytics DB,India-East,202,4158
+2026-08-07,Electricity,Storage,Grid Logs Backup,India-East,350,1432
+2026-08-07,Traffic,Networking,Traffic Communication,India-East,127,1686
+2026-08-07,Water,Database,Water Analytics DB,India-West,200,3859
+2026-08-07,Surveillance,Database,Surveillance DB,India-South,239,3337
+2026-08-08,Healthcare,Networking,Health IoT Sensors,India-South,173,1550
+2026-08-08,Electricity,Networking,Smart Meter Network,India-East,131,1281
+2026-08-08,Transport,Networking,Bus Tracking System,India-West,137,1237
+2026-08-08,Water,Networking,Water Sensors,India-North,148,1448
+2026-08-09,Electricity,Database,Energy Usage DB,India-North,194,3636
+2026-08-09,Traffic,Compute,Traffic Signal AI,India-South,174,4077
+2026-08-09,Healthcare,Database,Smart Health Records,India-South,233,4247
+2026-08-10,Traffic,Database,Signal Records DB,India-East,228,4270
+2026-08-10,Healthcare,Networking,Hospital Network,India-North,198,1213
+2026-08-10,Surveillance,Storage,Video Storage,India-North,334,2298
+2026-08-10,Water,Storage,Water Data Logs,India-South,317,1478
+2026-08-11,Surveillance,Database,CCTV Analytics DB,India-North,240,4186
+2026-08-11,Traffic,Database,Traffic Analytics DB,India-East,229,4171
+2026-08-11,Transport,Storage,Transport Data Backup,India-West,415,2179
+2026-08-11,Electricity,Compute,Grid Compute,India-North,163,3691
+2026-08-11,Healthcare,Storage,Health Backup,India-North,277,2033
+2026-08-12,Transport,Compute,Route AI,India-South,226,4545
+2026-08-12,Traffic,Database,Traffic Analytics DB,India-South,233,3698
+2026-08-12,Water,Storage,Water Data Logs,India-South,313,1966
+2026-08-12,Electricity,Networking,Smart Meter Network,India-North,195,1396
+2026-08-12,Surveillance,Storage,CCTV Backup System,India-North,342,1529
+2026-08-13,Traffic,Networking,Traffic Monitoring,India-West,132,1430
+2026-08-13,Transport,Database,Fleet Management DB,India-North,191,3525
+2026-08-13,Water,Storage,Water Records Backup,India-West,415,1756
+2026-08-13,Healthcare,Storage,Patient Backup,India-East,357,2325
+2026-08-14,Water,Database,Water Monitoring System,India-North,267,3482
+2026-08-14,Transport,Storage,Fleet Data Logs,India-North,256,2113
+2026-08-14,Healthcare,Compute,Medical Imaging AI,India-North,195,4005
+2026-08-15,Water,Database,Water Analytics DB,India-North,229,3284
+2026-08-15,Electricity,Compute,Grid Compute,India-North,196,4373
+2026-08-15,Surveillance,Database,Surveillance DB,India-South,199,3615
+2026-08-15,Healthcare,Database,Smart Health Records,India-North,191,4220
+2026-08-15,Transport,Compute,Route AI,India-West,233,3984
+2026-08-16,Transport,Networking,Bus Network,India-South,159,1586
+2026-08-16,Healthcare,Networking,Hospital Network,India-East,142,1347
+2026-08-16,Traffic,Networking,Traffic Monitoring,India-East,171,1480
+2026-08-16,Electricity,Database,Energy DB,India-East,187,3308
+2026-08-17,Water,Storage,Water Data Logs,India-North,260,1171
+2026-08-17,Traffic,Database,Signal Records DB,India-North,266,4054
+2026-08-17,Healthcare,Compute,Health AI,India-East,175,3103
+2026-08-17,Transport,Storage,Fleet Data Logs,India-East,331,1246
+2026-08-18,Traffic,Database,Signal Records DB,India-East,239,3686
+2026-08-18,Water,Database,Water Monitoring System,India-South,236,3678
+2026-08-18,Healthcare,Storage,Patient Data Backup,India-East,258,1914
+2026-08-18,Electricity,Compute,Smart Grid Analysis,India-East,157,4487
+2026-08-19,Water,Networking,Water Sensors,India-North,196,1177
+2026-08-19,Healthcare,Database,Health Records DB,India-East,217,3434
+2026-08-19,Electricity,Networking,Smart Meter Network,India-South,167,981
+2026-08-20,Water,Database,Water Analytics DB,India-East,232,3994
+2026-08-20,Traffic,Compute,Traffic Signal AI,India-East,198,3514
+2026-08-20,Transport,Database,Fleet Management DB,India-South,239,4126
+2026-08-20,Healthcare,Compute,Health AI,India-South,240,4507
+2026-08-20,Surveillance,Storage,Video Storage,India-West,381,2241
+2026-08-21,Healthcare,Networking,Hospital Network,India-East,157,1226
+2026-08-21,Transport,Networking,Transport Sensors,India-South,125,1182
+2026-08-21,Surveillance,Networking,Surveillance Network,India-West,122,1709
+2026-08-21,Traffic,Networking,Traffic Communication,India-North,150,1335
+2026-08-21,Water,Database,Water Monitoring System,India-West,231,3578
+2026-08-22,Transport,Networking,Transport Sensors,India-North,142,1695
+2026-08-22,Surveillance,Compute,AI Monitoring,India-South,156,4152
+2026-08-22,Water,Compute,Water Demand AI,India-West,175,3509
+2026-08-22,Healthcare,Storage,Health Backup,India-South,269,1603
+2026-08-22,Electricity,Storage,Grid Logs Backup,India-South,294,1752
+2026-08-23,Healthcare,Compute,Health AI,India-South,155,3944
+2026-08-23,Electricity,Storage,Grid Logs Backup,India-West,394,2000
+2026-08-23,Transport,Compute,Route AI,India-West,232,3249
+2026-08-23,Traffic,Storage,Signal Data Backup,India-South,420,1717
+2026-08-23,Water,Compute,Leak Detection AI,India-North,220,3996
+2026-08-24,Traffic,Database,Signal Records DB,India-East,244,3323
+2026-08-24,Surveillance,Compute,AI Monitoring,India-North,237,4374
+2026-08-24,Healthcare,Networking,Health IoT Sensors,India-East,197,1038
+2026-08-24,Transport,Database,Fleet Management DB,India-North,231,4199
+2026-08-24,Water,Compute,Water Demand AI,India-East,148,4483
+2026-08-25,Surveillance,Database,Surveillance DB,India-South,211,3750
+2026-08-25,Traffic,Compute,Traffic Signal AI,India-South,179,4526
+2026-08-25,Electricity,Networking,Grid Sensors,India-West,169,1618
+2026-08-25,Transport,Compute,Bus Tracking System,India-East,193,4339
+2026-08-26,Surveillance,Database,CCTV Analytics DB,India-North,262,4140
+2026-08-26,Electricity,Networking,Smart Meter Network,India-South,125,1119
+2026-08-26,Traffic,Networking,Traffic Monitoring,India-East,185,1550
+2026-08-27,Water,Compute,Leak Detection AI,India-West,187,3646
+2026-08-27,Surveillance,Networking,Surveillance Network,India-East,177,1231
+2026-08-27,Electricity,Database,Energy DB,India-East,235,4060
+2026-08-27,Traffic,Compute,Traffic AI,India-East,197,4378
+2026-08-27,Healthcare,Networking,Hospital Network,India-East,200,1074
+2026-08-28,Traffic,Database,Traffic Analytics DB,India-North,195,3405
+2026-08-28,Water,Networking,IoT Water Sensors,India-East,133,1536
+2026-08-28,Transport,Database,Transport Analytics DB,India-North,203,3754
+2026-08-28,Healthcare,Storage,Health Backup,India-South,275,2049
+2026-08-28,Surveillance,Networking,CCTV Stream Network,India-West,186,1124
+2026-08-29,Transport,Database,Transport Analytics DB,India-South,232,3803
+2026-08-29,Electricity,Storage,Energy Data Archive,India-West,344,1533
+2026-08-29,Traffic,Networking,Signal Network,India-East,167,1157
+2026-08-30,Transport,Storage,Transport Data Backup,India-West,365,1383
+2026-08-30,Electricity,Compute,Grid Compute,India-West,249,4009
+2026-08-30,Water,Storage,Water Data Logs,India-South,333,1740
+2026-08-31,Water,Compute,Leak Detection AI,India-South,246,4210
+2026-08-31,Surveillance,Networking,Surveillance Network,India-North,187,1059
+2026-08-31,Electricity,Storage,Energy Data Archive,India-East,353,1274
+2026-08-31,Transport,Database,Transport Analytics DB,India-West,189,3578
+2026-08-31,Traffic,Networking,Traffic Communication,India-East,194,1575
+2026-09-01,Healthcare,Networking,Health IoT Sensors,India-South,188,1602
+2026-09-01,Electricity,Database,Energy DB,India-West,244,3627
+2026-09-01,Water,Networking,IoT Water Sensors,India-West,130,1087
+2026-09-02,Healthcare,Compute,Medical Imaging AI,India-North,197,4663
+2026-09-02,Transport,Compute,Transport AI,India-South,204,3844
+2026-09-02,Water,Networking,IoT Water Sensors,India-North,141,1567
+2026-09-02,Traffic,Compute,Traffic Signal AI,India-West,231,3677
+2026-09-02,Electricity,Storage,Energy Data Archive,India-North,301,2004
+2026-09-03,Transport,Storage,Fleet Data Logs,India-North,257,1837
+2026-09-03,Electricity,Database,Energy Usage DB,India-South,269,3944
+2026-09-03,Water,Compute,Leak Detection AI,India-South,217,3486
+2026-09-03,Traffic,Storage,Traffic Data Logs,India-West,263,1156
+2026-09-03,Healthcare,Compute,Medical Imaging AI,India-West,166,3313
+2026-09-04,Surveillance,Storage,Video Storage,India-East,395,1926
+2026-09-04,Healthcare,Storage,Health Backup,India-South,400,1107
+2026-09-04,Traffic,Database,Traffic Analytics DB,India-West,199,3660
+2026-09-05,Surveillance,Database,Surveillance DB,India-North,214,3602
+2026-09-05,Traffic,Database,Traffic Analytics DB,India-East,214,4241
+2026-09-05,Electricity,Storage,Grid Logs Backup,India-East,353,1490
+2026-09-06,Electricity,Networking,Smart Meter Network,India-West,177,1109
+2026-09-06,Transport,Storage,Transport Data Backup,India-East,317,1951
+2026-09-06,Healthcare,Database,Health Records DB,India-East,195,3444
+2026-09-07,Healthcare,Database,Smart Health Records,India-North,252,3764
+2026-09-07,Water,Database,Water DB,India-West,187,4094
+2026-09-07,Traffic,Compute,Traffic Prediction AI,India-East,210,4673
+2026-09-08,Transport,Database,Transport Analytics DB,India-East,197,4084
+2026-09-08,Traffic,Compute,Traffic Prediction AI,India-East,143,4229
+2026-09-08,Healthcare,Database,Health Records DB,India-West,222,3651
+2026-09-08,Water,Compute,Water Demand AI,India-South,233,4813
+2026-09-08,Electricity,Storage,Grid Logs Backup,India-West,363,1870
+2026-09-09,Healthcare,Networking,Health IoT Sensors,India-North,186,1085
+2026-09-09,Water,Database,Water DB,India-South,183,4274
+2026-09-09,Electricity,Networking,Smart Meter Network,India-South,124,1420
+2026-09-09,Surveillance,Storage,CCTV Storage,India-West,284,1240
+2026-09-10,Transport,Networking,Transport Sensors,India-South,144,1603
+2026-09-10,Surveillance,Database,Surveillance DB,India-North,248,3289
+2026-09-10,Healthcare,Networking,Hospital Network,India-North,149,1274
+2026-09-10,Electricity,Compute,Grid Compute,India-West,236,4701
+2026-09-10,Traffic,Compute,Traffic AI,India-South,212,3794
+2026-09-11,Transport,Database,Fleet Management DB,India-South,204,3599
+2026-09-11,Water,Database,Water Analytics DB,India-West,254,3803
+2026-09-11,Electricity,Compute,Smart Grid Analysis,India-West,184,3998
+2026-09-11,Healthcare,Database,Smart Health Records,India-East,243,3517
+2026-09-12,Water,Compute,Leak Detection AI,India-North,186,3281
+2026-09-12,Electricity,Networking,Smart Meter Network,India-North,137,1492
+2026-09-12,Traffic,Compute,Traffic AI,India-West,155,3305
+2026-09-13,Water,Database,Water DB,India-West,242,4318
+2026-09-13,Traffic,Networking,Traffic Communication,India-West,162,989
+2026-09-13,Transport,Storage,Fleet Data Logs,India-North,404,1384
+2026-09-13,Surveillance,Database,Surveillance DB,India-East,186,3998
+2026-09-14,Water,Compute,Leak Detection AI,India-East,175,3882
+2026-09-14,Surveillance,Storage,CCTV Footage Storage,India-North,325,2079
+2026-09-14,Healthcare,Database,Health Records DB,India-West,253,3315
+2026-09-14,Electricity,Compute,Smart Grid Analysis,India-South,168,3233
+2026-09-14,Traffic,Database,Signal Records DB,India-North,225,3709
+2026-09-15,Traffic,Compute,Traffic AI,India-North,173,3728
+2026-09-15,Electricity,Networking,Grid Sensors,India-West,188,1003
+2026-09-15,Surveillance,Database,CCTV Analytics DB,India-West,201,3986
+2026-09-15,Healthcare,Database,Health Records DB,India-South,199,3542
+2026-09-15,Water,Storage,Water Data Logs,India-East,379,2070
+2026-09-16,Surveillance,Storage,CCTV Backup System,India-East,328,1555
+2026-09-16,Transport,Networking,Bus Tracking System,India-East,123,1024
+2026-09-16,Healthcare,Storage,Patient Data Backup,India-East,336,1767
+2026-09-16,Water,Database,Water Monitoring System,India-West,237,4141
+2026-09-16,Traffic,Compute,Traffic Prediction AI,India-South,181,3723
+2026-09-17,Transport,Networking,Bus Network,India-South,180,1419
+2026-09-17,Traffic,Database,Traffic Analytics DB,India-South,211,4139
+2026-09-17,Healthcare,Database,Health Records DB,India-West,181,3448
+2026-09-17,Surveillance,Networking,CCTV Stream Network,India-South,135,988
+2026-09-18,Electricity,Networking,Smart Meter Network,India-West,190,1387
+2026-09-18,Traffic,Database,Signal Records DB,India-East,244,3842
+2026-09-18,Surveillance,Database,Surveillance DB,India-East,250,3681
+2026-09-18,Healthcare,Database,Health Records DB,India-East,260,3481
+2026-09-19,Transport,Networking,Transport Sensors,India-North,194,1503
+2026-09-19,Traffic,Database,Signal Records DB,India-North,206,4190
+2026-09-19,Surveillance,Storage,CCTV Backup System,India-South,393,1828
+2026-09-19,Water,Storage,Water Records Backup,India-West,277,2288
+2026-09-20,Transport,Networking,Bus Tracking System,India-West,161,1298
+2026-09-20,Water,Compute,Leak Detection AI,India-East,248,4705
+2026-09-20,Traffic,Compute,Traffic Prediction AI,India-North,166,4726
+2026-09-21,Healthcare,Storage,Patient Backup,India-South,327,1648
+2026-09-21,Transport,Storage,Transport Data Backup,India-North,373,2075
+2026-09-21,Electricity,Storage,Grid Logs Backup,India-East,288,1143
+2026-09-21,Water,Storage,Water Data Logs,India-West,345,1624
+2026-09-22,Transport,Compute,Route Optimization AI,India-West,217,4839
+2026-09-22,Surveillance,Networking,CCTV Stream Network,India-West,177,1329
+2026-09-22,Water,Storage,Water Records Backup,India-West,285,2208
+2026-09-23,Water,Compute,Water Demand AI,India-East,159,4701
+2026-09-23,Surveillance,Storage,Video Storage,India-North,358,1211
+2026-09-23,Traffic,Networking,Signal Network,India-South,187,1684
+2026-09-23,Healthcare,Networking,Health IoT Sensors,India-West,197,1398
+2026-09-24,Surveillance,Database,CCTV Analytics DB,India-North,257,4153
+2026-09-24,Traffic,Database,Signal Records DB,India-South,220,3573
+2026-09-24,Electricity,Database,Energy DB,India-West,184,3356
+2026-09-25,Surveillance,Networking,Surveillance Network,India-West,173,1176
+2026-09-25,Healthcare,Database,Health Records DB,India-East,192,3510
+2026-09-25,Electricity,Networking,Smart Meter Network,India-South,192,1323
+2026-09-25,Water,Database,Water Monitoring System,India-North,201,4277
+2026-09-25,Transport,Compute,Bus Tracking System,India-East,230,4777
+2026-09-26,Healthcare,Database,Smart Health Records,India-North,233,3610
+2026-09-26,Surveillance,Database,Surveillance DB,India-West,269,3809
+2026-09-26,Water,Database,Water Analytics DB,India-North,244,4205
+2026-09-26,Transport,Storage,Transport Data Backup,India-North,378,1841
+2026-09-26,Electricity,Compute,Smart Grid AI,India-East,168,4249
+2026-09-27,Electricity,Compute,Smart Grid Analysis,India-West,231,3079
+2026-09-27,Surveillance,Database,CCTV Analytics DB,India-East,263,3909
+2026-09-27,Healthcare,Networking,Health IoT Sensors,India-North,123,1233
+2026-09-27,Transport,Storage,Transport Data Backup,India-West,420,1784
+2026-09-27,Water,Database,Water Monitoring System,India-South,265,3285
+2026-09-28,Transport,Storage,Transport Data Backup,India-North,287,1737
+2026-09-28,Water,Networking,IoT Water Sensors,India-North,174,1690
+2026-09-28,Surveillance,Database,Surveillance DB,India-East,185,4256
+2026-09-28,Traffic,Database,Traffic Analytics DB,India-South,207,3386
+2026-09-28,Healthcare,Networking,Hospital Network,India-North,158,1440
+2026-09-29,Healthcare,Compute,Diagnostics AI,India-West,249,3727
+2026-09-29,Electricity,Database,Energy Usage DB,India-South,216,3288
+2026-09-29,Transport,Networking,Bus Network,India-East,166,1377
+2026-09-29,Water,Database,Water DB,India-North,240,3588
+2026-09-30,Electricity,Storage,Energy Data Archive,India-East,272,1885
+2026-09-30,Water,Storage,Water Data Logs,India-East,367,1359
+2026-09-30,Surveillance,Database,CCTV Analytics DB,India-South,186,3634
+2026-10-01,Water,Database,Water Monitoring System,India-East,193,3632
+2026-10-01,Electricity,Database,Energy DB,India-East,196,4318
+2026-10-01,Transport,Networking,Transport Sensors,India-West,164,1066
+2026-10-01,Healthcare,Storage,Patient Data Backup,India-North,351,1762
+2026-10-01,Surveillance,Database,Surveillance DB,India-South,243,3537
+2026-10-02,Transport,Compute,Route Optimization AI,India-South,180,3410
+2026-10-02,Electricity,Storage,Energy Data Archive,India-North,374,1897
+2026-10-02,Water,Database,Water Monitoring System,India-South,232,3473
+2026-10-02,Surveillance,Storage,CCTV Storage,India-South,381,1554
+2026-10-03,Traffic,Networking,Traffic Communication,India-East,166,1183
+2026-10-03,Water,Networking,Water Sensors,India-South,137,1149
+2026-10-03,Transport,Storage,Transport Data Backup,India-South,284,2091
+2026-10-03,Healthcare,Database,Health Records DB,India-West,222,3577
+2026-10-04,Healthcare,Storage,Health Backup,India-East,288,1679
+2026-10-04,Surveillance,Storage,CCTV Backup System,India-North,315,1206
+2026-10-04,Water,Networking,Water Sensors,India-East,137,1078
+2026-10-04,Traffic,Compute,Traffic AI,India-North,140,3468
+2026-10-04,Transport,Storage,Fleet Data Logs,India-North,339,1514
+2026-10-05,Transport,Storage,Transport Data Backup,India-West,419,1124
+2026-10-05,Healthcare,Storage,Patient Data Backup,India-East,367,2028
+2026-10-05,Surveillance,Database,Surveillance DB,India-South,200,4188
+2026-10-05,Traffic,Database,Traffic Analytics DB,India-South,241,3396
+2026-10-06,Electricity,Networking,Smart Meter Network,India-West,161,1007
+2026-10-06,Water,Networking,IoT Water Sensors,India-West,141,1470
+2026-10-06,Transport,Storage,Fleet Data Logs,India-North,384,1548
+2026-10-06,Healthcare,Compute,Diagnostics AI,India-South,247,4828
+2026-10-06,Traffic,Storage,Traffic Data Logs,India-East,372,1875
+2026-10-07,Healthcare,Database,Health Records DB,India-North,207,3513
+2026-10-07,Surveillance,Networking,Surveillance Network,India-North,168,1268
+2026-10-07,Electricity,Storage,Energy Data Archive,India-West,409,1881
+2026-10-07,Water,Compute,Leak Detection AI,India-South,235,4649
+2026-10-07,Transport,Storage,Transport Data Backup,India-North,371,2097
+2026-10-08,Healthcare,Database,Health Records DB,India-South,246,3809
+2026-10-08,Traffic,Database,Signal Records DB,India-East,226,4249
+2026-10-08,Surveillance,Database,Surveillance DB,India-North,224,3417
+2026-10-08,Electricity,Database,Energy DB,India-East,217,3910
+2026-10-08,Transport,Compute,Transport AI,India-North,147,3617
+2026-10-09,Surveillance,Database,Surveillance DB,India-West,220,4130
+2026-10-09,Water,Networking,IoT Water Sensors,India-South,163,981
+2026-10-09,Healthcare,Storage,Patient Backup,India-East,359,2126
+2026-10-10,Transport,Networking,Transport Sensors,India-West,197,1437
+2026-10-10,Water,Compute,Water Demand AI,India-North,145,4102
+2026-10-10,Healthcare,Database,Smart Health Records,India-West,241,3422
+2026-10-11,Surveillance,Storage,CCTV Storage,India-North,403,2074
+2026-10-11,Electricity,Storage,Grid Logs Backup,India-East,343,1556
+2026-10-11,Water,Networking,Water Sensors,India-East,187,1251
+2026-10-11,Traffic,Database,Traffic Analytics DB,India-East,230,3329
+2026-10-11,Transport,Database,Transport Analytics DB,India-North,188,3521
+2026-10-12,Healthcare,Database,Health Records DB,India-West,253,4155
+2026-10-12,Water,Storage,Water Data Logs,India-North,325,1628
+2026-10-12,Surveillance,Compute,AI Surveillance,India-North,194,4327
+2026-10-13,Traffic,Compute,Traffic Signal AI,India-South,190,4074
+2026-10-13,Water,Database,Water Analytics DB,India-North,235,3816
+2026-10-13,Electricity,Database,Energy DB,India-East,234,4066
+2026-10-13,Healthcare,Networking,Hospital Network,India-North,152,1568
+2026-10-13,Surveillance,Database,CCTV Analytics DB,India-South,228,3309
+2026-10-14,Healthcare,Compute,Health AI,India-South,145,3773
+2026-10-14,Electricity,Networking,Grid Sensors,India-North,145,1072
+2026-10-14,Traffic,Networking,Traffic Monitoring,India-South,173,1701
+2026-10-14,Transport,Networking,Bus Network,India-East,164,1588
+2026-10-15,Healthcare,Networking,Health IoT Sensors,India-West,128,1246
+2026-10-15,Electricity,Database,Energy DB,India-North,258,3514
+2026-10-15,Traffic,Compute,Traffic Signal AI,India-North,162,3937
+2026-10-15,Surveillance,Networking,CCTV Stream Network,India-East,166,1721
+2026-10-15,Transport,Database,Transport Analytics DB,India-North,229,3739
+2026-10-16,Healthcare,Storage,Health Backup,India-South,383,1360
+2026-10-16,Electricity,Compute,Grid Compute,India-East,240,3736
+2026-10-16,Water,Networking,IoT Water Sensors,India-East,160,1565
+2026-10-17,Traffic,Networking,Signal Network,India-North,143,1558
+2026-10-17,Electricity,Storage,Grid Logs Backup,India-South,365,2062
+2026-10-17,Surveillance,Networking,Surveillance Network,India-North,181,981
+2026-10-18,Water,Storage,Water Data Logs,India-East,396,1876
+2026-10-18,Healthcare,Compute,Diagnostics AI,India-North,212,4865
+2026-10-18,Surveillance,Storage,Video Storage,India-South,411,2039
+2026-10-19,Water,Networking,IoT Water Sensors,India-North,150,990
+2026-10-19,Transport,Storage,Transport Data Backup,India-West,319,2040
+2026-10-19,Electricity,Storage,Energy Data Archive,India-East,267,2130
+2026-10-19,Traffic,Networking,Traffic Communication,India-South,134,1542
+2026-10-19,Healthcare,Database,Health Records DB,India-South,188,3436
+2026-10-20,Surveillance,Compute,AI Monitoring,India-West,250,4826
+2026-10-20,Healthcare,Compute,Diagnostics AI,India-South,213,4373
+2026-10-20,Transport,Database,Fleet Management DB,India-East,246,3809
+2026-10-21,Surveillance,Database,CCTV Analytics DB,India-West,235,3892
+2026-10-21,Transport,Storage,Fleet Data Logs,India-East,322,1424
+2026-10-21,Traffic,Database,Traffic Analytics DB,India-East,243,3799
+2026-10-21,Electricity,Database,Energy Usage DB,India-South,221,4259
+2026-10-21,Water,Networking,Water Sensors,India-South,131,1578
+2026-10-22,Traffic,Compute,Traffic Prediction AI,India-North,231,4282
+2026-10-22,Healthcare,Database,Smart Health Records,India-North,229,4127
+2026-10-22,Electricity,Networking,Smart Meter Network,India-South,121,1704
+2026-10-23,Water,Networking,IoT Water Sensors,India-North,174,1274
+2026-10-23,Surveillance,Networking,Surveillance Network,India-East,134,1216
+2026-10-23,Traffic,Database,Signal Records DB,India-East,243,3623
+2026-10-23,Electricity,Database,Energy DB,India-North,239,3777
+2026-10-23,Transport,Storage,Transport Data Backup,India-West,393,1507
+2026-10-24,Transport,Compute,Bus Tracking System,India-East,250,4156
+2026-10-24,Traffic,Networking,Signal Network,India-East,199,1524
+2026-10-24,Surveillance,Database,CCTV Analytics DB,India-South,242,3457
+2026-10-25,Healthcare,Networking,Hospital Network,India-North,125,1290
+2026-10-25,Electricity,Storage,Energy Data Archive,India-North,330,1836
+2026-10-25,Traffic,Networking,Signal Network,India-West,147,1061
+2026-10-26,Healthcare,Networking,Health IoT Sensors,India-West,178,1337
+2026-10-26,Electricity,Database,Energy DB,India-East,265,3333
+2026-10-26,Traffic,Database,Traffic Analytics DB,India-South,180,3998
+2026-10-26,Surveillance,Database,CCTV Analytics DB,India-East,247,3307
+2026-10-27,Surveillance,Compute,AI Monitoring,India-East,241,4104
+2026-10-27,Traffic,Networking,Signal Network,India-South,194,1304
+2026-10-27,Healthcare,Compute,Health AI,India-West,202,4694
+2026-10-27,Electricity,Compute,Smart Grid Analysis,India-North,220,4637
+2026-10-27,Transport,Compute,Route AI,India-East,142,3456
+2026-10-28,Surveillance,Storage,CCTV Backup System,India-North,328,2234
+2026-10-28,Water,Database,Water Analytics DB,India-North,256,3662
+2026-10-28,Transport,Networking,Bus Tracking System,India-South,150,1083
+2026-10-28,Traffic,Compute,Traffic AI,India-West,189,4714
+2026-10-28,Electricity,Database,Energy DB,India-East,187,3913
+2026-10-29,Surveillance,Storage,CCTV Backup System,India-North,327,2057
+2026-10-29,Water,Compute,Leak Detection AI,India-West,210,4687
+2026-10-29,Healthcare,Database,Smart Health Records,India-East,204,3868
+2026-10-29,Traffic,Storage,Signal Data Backup,India-North,303,1509
+2026-10-30,Water,Networking,IoT Water Sensors,India-South,141,1297
+2026-10-30,Healthcare,Compute,Diagnostics AI,India-West,182,4464
+2026-10-30,Surveillance,Networking,CCTV Stream Network,India-North,121,1123
+2026-10-31,Transport,Database,Transport Analytics DB,India-West,243,4060
+2026-10-31,Healthcare,Compute,Medical Imaging AI,India-South,176,4698
+2026-10-31,Electricity,Compute,Smart Grid Analysis,India-West,196,3339
+2026-11-01,Traffic,Compute,Traffic Prediction AI,India-North,204,4063
+2026-11-01,Electricity,Compute,Smart Grid Analysis,India-East,143,4491
+2026-11-01,Water,Compute,Leak Detection AI,India-North,182,3143
+2026-11-01,Healthcare,Networking,Health IoT Sensors,India-East,174,1239
+2026-11-02,Traffic,Networking,Traffic Communication,India-South,175,1008
+2026-11-02,Electricity,Storage,Energy Data Archive,India-South,420,1423
+2026-11-02,Transport,Compute,Route Optimization AI,India-South,218,3802
+2026-11-02,Water,Database,Water Analytics DB,India-North,209,4137
+2026-11-03,Transport,Compute,Route AI,India-West,246,4087
+2026-11-03,Water,Storage,Water Records Backup,India-South,325,1859
+2026-11-03,Healthcare,Storage,Health Backup,India-South,317,1642
+2026-11-03,Traffic,Storage,Signal Data Backup,India-North,289,1739
+2026-11-04,Transport,Compute,Bus Tracking System,India-East,186,3170
+2026-11-04,Healthcare,Storage,Patient Backup,India-South,309,1771
+2026-11-04,Traffic,Storage,Signal Data Backup,India-South,271,1603
+2026-11-04,Surveillance,Networking,CCTV Stream Network,India-South,160,1598
+2026-11-05,Electricity,Storage,Grid Logs Backup,India-North,359,1724
+2026-11-05,Healthcare,Networking,Hospital Network,India-North,120,1513
+2026-11-05,Transport,Storage,Transport Data Backup,India-South,378,1339
+2026-11-05,Water,Compute,Water Demand AI,India-East,247,3146
+2026-11-06,Traffic,Database,Signal Records DB,India-North,181,3309
+2026-11-06,Healthcare,Storage,Patient Data Backup,India-East,327,2242
+2026-11-06,Transport,Database,Fleet Management DB,India-South,238,3887
+2026-11-06,Water,Database,Water Monitoring System,India-North,258,3477
+2026-11-07,Electricity,Networking,Smart Meter Network,India-East,120,1470
+2026-11-07,Water,Database,Water Monitoring System,India-West,249,3531
+2026-11-07,Surveillance,Storage,CCTV Backup System,India-South,346,1687
+2026-11-07,Healthcare,Storage,Patient Data Backup,India-North,328,2273
+2026-11-08,Traffic,Storage,Traffic Data Logs,India-South,418,1740
+2026-11-08,Water,Database,Water DB,India-North,266,3753
+2026-11-08,Transport,Storage,Transport Data Backup,India-East,327,2394
+2026-11-08,Electricity,Database,Energy DB,India-South,259,3957
+2026-11-08,Healthcare,Networking,Health IoT Sensors,India-South,188,1131
+2026-11-09,Transport,Compute,Bus Tracking System,India-West,191,3648
+2026-11-09,Traffic,Database,Signal Records DB,India-North,269,3547
+2026-11-09,Electricity,Storage,Grid Logs Backup,India-South,375,2150
+2026-11-09,Water,Compute,Water Demand AI,India-West,202,3140
+2026-11-09,Healthcare,Networking,Health IoT Sensors,India-East,134,1620
+2026-11-10,Traffic,Storage,Traffic Data Logs,India-South,337,1501
+2026-11-10,Healthcare,Compute,Health AI,India-East,182,4334
+2026-11-10,Surveillance,Networking,CCTV Stream Network,India-East,182,1070
+2026-11-10,Transport,Database,Fleet Management DB,India-North,268,3535
+2026-11-10,Water,Storage,Water Records Backup,India-West,376,1224
+2026-11-11,Electricity,Compute,Smart Grid AI,India-East,148,3998
+2026-11-11,Water,Compute,Water Demand AI,India-South,189,3483
+2026-11-11,Surveillance,Storage,CCTV Storage,India-West,334,1826
+2026-11-12,Water,Storage,Water Records Backup,India-East,350,1711
+2026-11-12,Healthcare,Storage,Patient Data Backup,India-South,263,1271
+2026-11-12,Electricity,Database,Energy DB,India-West,199,3712
+2026-11-12,Traffic,Networking,Signal Network,India-North,128,1214
+2026-11-13,Electricity,Database,Energy Usage DB,India-North,228,3922
+2026-11-13,Healthcare,Storage,Patient Data Backup,India-West,268,1399
+2026-11-13,Traffic,Networking,Traffic Communication,India-East,168,1754
+2026-11-13,Surveillance,Storage,CCTV Storage,India-West,403,1268
+2026-11-13,Transport,Storage,Fleet Data Logs,India-South,331,2369
+2026-11-14,Transport,Storage,Fleet Data Logs,India-South,341,2372
+2026-11-14,Traffic,Compute,Traffic Prediction AI,India-West,219,3237
+2026-11-14,Healthcare,Database,Health Records DB,India-West,195,3747
+2026-11-14,Surveillance,Compute,AI Surveillance,India-West,140,3696
+2026-11-15,Healthcare,Database,Smart Health Records,India-West,224,4095
+2026-11-15,Transport,Database,Fleet Management DB,India-East,247,4140
+2026-11-15,Electricity,Storage,Energy Data Archive,India-West,391,1780
+2026-11-15,Surveillance,Storage,CCTV Footage Storage,India-East,293,1958
+2026-11-15,Water,Storage,Water Records Backup,India-West,347,1921
+2026-11-16,Traffic,Compute,Traffic AI,India-North,216,3949
+2026-11-16,Water,Compute,Leak Detection AI,India-East,141,3734
+2026-11-16,Surveillance,Networking,Surveillance Network,India-West,122,1190
+2026-11-16,Healthcare,Networking,Hospital Network,India-West,197,1361
+2026-11-17,Surveillance,Database,Surveillance DB,India-North,227,4010
+2026-11-17,Healthcare,Networking,Hospital Network,India-North,125,1081
+2026-11-17,Water,Networking,Water Sensors,India-West,137,1565
+2026-11-17,Traffic,Networking,Signal Network,India-West,170,1067
+2026-11-18,Traffic,Compute,Traffic AI,India-South,176,4215
+2026-11-18,Surveillance,Database,Surveillance DB,India-South,249,3880
+2026-11-18,Electricity,Storage,Energy Data Archive,India-East,398,2076
+2026-11-18,Healthcare,Database,Health Records DB,India-East,267,4281
+2026-11-18,Water,Database,Water DB,India-West,193,4154
+2026-11-19,Traffic,Compute,Traffic Prediction AI,India-South,158,3785
+2026-11-19,Transport,Compute,Route Optimization AI,India-West,224,3314
+2026-11-19,Healthcare,Compute,Health AI,India-North,201,4050
+2026-11-19,Water,Compute,Leak Detection AI,India-North,143,4110
+2026-11-20,Electricity,Database,Energy Usage DB,India-South,191,4224
+2026-11-20,Water,Storage,Water Records Backup,India-West,388,1798
+2026-11-20,Traffic,Compute,Traffic Prediction AI,India-South,223,4328
+2026-11-21,Transport,Storage,Fleet Data Logs,India-South,335,1358
+2026-11-21,Water,Storage,Water Records Backup,India-North,269,1336
+2026-11-21,Healthcare,Database,Smart Health Records,India-South,180,3749
+2026-11-22,Water,Storage,Water Records Backup,India-East,300,1391
+2026-11-22,Traffic,Storage,Traffic Data Logs,India-West,371,2281
+2026-11-22,Surveillance,Networking,CCTV Stream Network,India-South,189,1051
+2026-11-22,Electricity,Storage,Energy Data Archive,India-East,282,2245
+2026-11-23,Water,Storage,Water Records Backup,India-South,419,1697
+2026-11-23,Traffic,Storage,Signal Data Backup,India-South,324,1969
+2026-11-23,Surveillance,Storage,CCTV Footage Storage,India-East,375,1476
+2026-11-24,Healthcare,Storage,Patient Data Backup,India-West,395,1783
+2026-11-24,Electricity,Storage,Grid Logs Backup,India-East,374,1438
+2026-11-24,Water,Compute,Water Demand AI,India-West,223,3557
+2026-11-25,Surveillance,Database,Surveillance DB,India-West,259,4215
+2026-11-25,Water,Networking,Water Sensors,India-West,172,1571
+2026-11-25,Transport,Storage,Fleet Data Logs,India-South,262,2271
+2026-11-25,Healthcare,Database,Health Records DB,India-South,198,4348
+2026-11-26,Water,Database,Water Monitoring System,India-North,269,3976
+2026-11-26,Traffic,Database,Signal Records DB,India-West,255,4286
+2026-11-26,Electricity,Database,Energy DB,India-East,261,3946
+2026-11-27,Transport,Database,Transport Analytics DB,India-West,267,3523
+2026-11-27,Traffic,Networking,Signal Network,India-East,179,1350
+2026-11-27,Water,Networking,IoT Water Sensors,India-South,132,1557
+2026-11-28,Electricity,Compute,Grid Compute,India-South,224,3624
+2026-11-28,Traffic,Compute,Traffic AI,India-East,165,4131
+2026-11-28,Transport,Database,Fleet Management DB,India-North,264,4079
+2026-11-28,Water,Database,Water DB,India-East,207,3756
+2026-11-28,Healthcare,Storage,Health Backup,India-North,355,1934
+2026-11-29,Healthcare,Compute,Medical Imaging AI,India-North,155,4167
+2026-11-29,Surveillance,Compute,AI Monitoring,India-East,243,3448
+2026-11-29,Electricity,Database,Energy Usage DB,India-West,204,3628
+2026-11-30,Water,Compute,Leak Detection AI,India-East,193,3391
+2026-11-30,Surveillance,Networking,Surveillance Network,India-South,196,1665
+2026-11-30,Healthcare,Storage,Patient Data Backup,India-East,307,1747
+2026-11-30,Electricity,Database,Energy DB,India-West,247,3498
+2026-12-01,Surveillance,Compute,Face Recognition AI,India-North,193,3447
+2026-12-01,Water,Storage,Water Records Backup,India-West,253,2066
+2026-12-01,Healthcare,Database,Smart Health Records,India-North,217,3771
+2026-12-02,Transport,Compute,Transport AI,India-South,200,4586
+2026-12-02,Healthcare,Storage,Patient Backup,India-North,312,1359
+2026-12-02,Surveillance,Compute,AI Surveillance,India-East,232,4715
+2026-12-02,Water,Database,Water Monitoring System,India-West,258,3359
+2026-12-03,Transport,Compute,Transport AI,India-East,229,3515
+2026-12-03,Water,Database,Water DB,India-East,214,4090
+2026-12-03,Surveillance,Storage,CCTV Backup System,India-North,339,1731
+2026-12-03,Traffic,Storage,Signal Data Backup,India-North,399,2392
+2026-12-04,Healthcare,Database,Smart Health Records,India-West,234,4136
+2026-12-04,Surveillance,Storage,CCTV Footage Storage,India-East,375,2208
+2026-12-04,Transport,Database,Fleet Management DB,India-North,219,3950
+2026-12-05,Transport,Compute,Transport AI,India-North,207,4758
+2026-12-05,Water,Networking,Water Sensors,India-East,149,1464
+2026-12-05,Traffic,Database,Signal Records DB,India-South,265,3455
+2026-12-06,Water,Database,Water Monitoring System,India-South,258,3489
+2026-12-06,Healthcare,Networking,Hospital Network,India-North,163,1458
+2026-12-06,Transport,Storage,Transport Data Backup,India-West,333,1338
+2026-12-07,Surveillance,Compute,Face Recognition AI,India-East,173,3467
+2026-12-07,Water,Database,Water Analytics DB,India-East,221,3658
+2026-12-07,Electricity,Storage,Grid Logs Backup,India-West,413,2072
+2026-12-07,Traffic,Networking,Signal Network,India-South,163,1005
+2026-12-08,Electricity,Storage,Energy Data Archive,India-South,258,2406
+2026-12-08,Water,Networking,IoT Water Sensors,India-East,197,1092
+2026-12-08,Traffic,Database,Signal Records DB,India-East,230,3778
+2026-12-09,Transport,Compute,Route AI,India-West,182,4881
+2026-12-09,Electricity,Database,Energy DB,India-West,212,4053
+2026-12-09,Water,Storage,Water Records Backup,India-South,292,1214
+2026-12-10,Electricity,Compute,Grid Compute,India-East,195,4507
+2026-12-10,Transport,Database,Transport Analytics DB,India-East,233,3356
+2026-12-10,Surveillance,Networking,Surveillance Network,India-East,140,1586
+2026-12-10,Water,Database,Water Analytics DB,India-South,198,3755
+2026-12-11,Healthcare,Database,Smart Health Records,India-West,234,4416
+2026-12-11,Surveillance,Networking,CCTV Stream Network,India-South,175,1406
+2026-12-11,Electricity,Database,Energy Usage DB,India-East,246,3498
+2026-12-12,Surveillance,Database,Surveillance DB,India-South,245,3634
+2026-12-12,Transport,Database,Transport Analytics DB,India-North,242,3943
+2026-12-12,Electricity,Storage,Energy Data Archive,India-East,322,2264
+2026-12-12,Traffic,Database,Traffic Analytics DB,India-West,242,3966
+2026-12-12,Water,Networking,IoT Water Sensors,India-South,188,1467
+2026-12-13,Surveillance,Networking,CCTV Stream Network,India-South,123,1741
+2026-12-13,Electricity,Networking,Grid Sensors,India-East,148,1215
+2026-12-13,Traffic,Database,Signal Records DB,India-West,248,3490
+2026-12-13,Healthcare,Storage,Patient Data Backup,India-North,261,1696
+2026-12-14,Transport,Compute,Route Optimization AI,India-North,198,4350
+2026-12-14,Traffic,Compute,Traffic Signal AI,India-South,188,3227
+2026-12-14,Surveillance,Database,CCTV Analytics DB,India-East,188,3629
+2026-12-14,Electricity,Networking,Grid Sensors,India-East,154,1232
+2026-12-15,Traffic,Database,Signal Records DB,India-West,218,4377
+2026-12-15,Water,Compute,Leak Detection AI,India-East,211,4019
+2026-12-15,Transport,Database,Transport Analytics DB,India-West,250,4363
+2026-12-15,Healthcare,Storage,Health Backup,India-North,386,1900
+2026-12-16,Transport,Networking,Transport Sensors,India-East,158,1517
+2026-12-16,Electricity,Networking,Smart Meter Network,India-East,195,1213
+2026-12-16,Traffic,Database,Signal Records DB,India-West,210,3638
+2026-12-16,Surveillance,Networking,CCTV Stream Network,India-South,157,1343
+2026-12-17,Surveillance,Networking,CCTV Stream Network,India-South,169,1395
+2026-12-17,Electricity,Networking,Grid Sensors,India-North,137,1497
+2026-12-17,Transport,Storage,Transport Data Backup,India-West,357,1244
+2026-12-17,Water,Compute,Leak Detection AI,India-North,201,4004
+2026-12-17,Healthcare,Database,Smart Health Records,India-East,213,4116
+2026-12-18,Water,Storage,Water Records Backup,India-West,300,1673
+2026-12-18,Surveillance,Networking,Surveillance Network,India-East,136,1573
+2026-12-18,Traffic,Storage,Signal Data Backup,India-North,327,1470
+2026-12-18,Electricity,Storage,Energy Data Archive,India-West,409,1680
+2026-12-19,Water,Storage,Water Records Backup,India-East,252,1468
+2026-12-19,Transport,Storage,Transport Data Backup,India-North,270,1703
+2026-12-19,Traffic,Compute,Traffic Prediction AI,India-North,208,4208
+2026-12-20,Electricity,Compute,Smart Grid AI,India-West,152,3847
+2026-12-20,Surveillance,Storage,CCTV Footage Storage,India-East,348,1963
+2026-12-20,Traffic,Compute,Traffic Signal AI,India-East,205,4017
+2026-12-21,Electricity,Database,Energy Usage DB,India-North,239,3819
+2026-12-21,Traffic,Networking,Traffic Communication,India-East,158,1012
+2026-12-21,Healthcare,Compute,Health AI,India-South,248,4541
+2026-12-21,Transport,Compute,Route AI,India-West,236,4306
+2026-12-21,Surveillance,Networking,CCTV Stream Network,India-East,164,1605
+2026-12-22,Surveillance,Database,Surveillance DB,India-South,224,3767
+2026-12-22,Water,Compute,Leak Detection AI,India-West,219,3546
+2026-12-22,Electricity,Compute,Smart Grid AI,India-West,173,4886
+2026-12-22,Traffic,Networking,Signal Network,India-North,190,1071
+2026-12-22,Healthcare,Storage,Patient Data Backup,India-North,409,1699
+2026-12-23,Surveillance,Storage,CCTV Backup System,India-West,366,1640
+2026-12-23,Traffic,Storage,Signal Data Backup,India-West,333,1518
+2026-12-23,Healthcare,Compute,Health AI,India-South,191,4564
+2026-12-23,Electricity,Storage,Grid Logs Backup,India-North,382,2217
+2026-12-24,Healthcare,Networking,Health IoT Sensors,India-South,172,1332
+2026-12-24,Electricity,Networking,Grid Sensors,India-South,177,1545
+2026-12-24,Transport,Compute,Route AI,India-West,241,3287
+2026-12-24,Traffic,Storage,Signal Data Backup,India-West,343,1864
+2026-12-25,Transport,Storage,Transport Data Backup,India-North,302,1357
+2026-12-25,Electricity,Storage,Grid Logs Backup,India-North,396,1496
+2026-12-25,Traffic,Storage,Traffic Data Logs,India-West,288,1965
+2026-12-25,Water,Storage,Water Data Logs,India-East,313,1141
+2026-12-25,Healthcare,Networking,Health IoT Sensors,India-South,177,1223
+2026-12-26,Water,Storage,Water Records Backup,India-North,300,1341
+2026-12-26,Electricity,Networking,Smart Meter Network,India-South,144,1045
+2026-12-26,Transport,Storage,Fleet Data Logs,India-South,318,1971
+2026-12-26,Healthcare,Storage,Health Backup,India-North,413,2368
+2026-12-26,Surveillance,Storage,Video Storage,India-South,348,1853
+2026-12-27,Transport,Storage,Fleet Data Logs,India-East,413,1666
+2026-12-27,Water,Compute,Water Demand AI,India-North,209,4225
+2026-12-27,Traffic,Compute,Traffic AI,India-West,144,4223
+2026-12-27,Healthcare,Storage,Patient Data Backup,India-South,339,1391
+2026-12-28,Healthcare,Compute,Medical Imaging AI,India-East,186,4064
+2026-12-28,Surveillance,Compute,AI Monitoring,India-North,160,3593
+2026-12-28,Traffic,Database,Signal Records DB,India-West,237,4250
+2026-12-28,Electricity,Database,Energy DB,India-West,268,4335
+2026-12-29,Surveillance,Storage,CCTV Backup System,India-North,342,1666
+2026-12-29,Traffic,Database,Traffic Analytics DB,India-East,199,3621
+2026-12-29,Water,Networking,Water Sensors,India-East,156,1377
+2026-12-30,Electricity,Networking,Grid Sensors,India-North,124,1612
+2026-12-30,Surveillance,Compute,AI Surveillance,India-South,190,4203
+2026-12-30,Transport,Database,Transport Analytics DB,India-East,206,3393
+2026-12-30,Healthcare,Networking,Hospital Network,India-North,133,1411
+2026-12-30,Water,Compute,Water Demand AI,India-South,230,3346
+2026-12-31,Water,Compute,Leak Detection AI,India-South,206,3113
+2026-12-31,Electricity,Compute,Smart Grid AI,India-West,192,4885
+2026-12-31,Healthcare,Compute,Medical Imaging AI,India-West,181,4159
+2026-12-31,Transport,Storage,Fleet Data Logs,India-West,336,2247

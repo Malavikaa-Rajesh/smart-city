@@ -1,0 +1,49 @@
+Date,Department,Service_Type,Application,Region,Usage_Hours,Cost_INR
+2026-01-01,Traffic,Compute,Traffic Signal AI,India-South,150,3000
+2026-01-02,Surveillance,Storage,CCTV Footage Storage,India-South,400,2000
+2026-01-03,Water,Database,Water Monitoring System,India-West,220,3500
+2026-01-04,Electricity,Compute,Smart Grid Analysis,India-South,180,3600
+2026-01-05,Transport,Networking,Bus Tracking System,India-West,130,1000
+2026-01-06,Healthcare,Database,Smart Health Records,India-South,200,3200
+
+2026-01-07,Traffic,Networking,Traffic Communication,India-South,160,1200
+2026-01-08,Surveillance,Compute,Face Recognition AI,India-West,200,4000
+2026-01-09,Water,Storage,Water Data Logs,India-South,280,1400
+2026-01-10,Electricity,Database,Energy Usage DB,India-West,210,3300
+2026-01-11,Transport,Compute,Route Optimization AI,India-South,160,3200
+2026-01-12,Healthcare,Storage,Patient Data Backup,India-West,300,1500
+
+2026-02-01,Traffic,Compute,Traffic Prediction AI,India-South,170,3400
+2026-02-02,Surveillance,Storage,CCTV Backup System,India-West,380,1900
+2026-02-03,Water,Networking,IoT Water Sensors,India-South,140,1100
+2026-02-04,Electricity,Database,Energy Usage DB,India-West,210,3300
+2026-02-05,Transport,Compute,Route Optimization AI,India-South,160,3200
+2026-02-06,Healthcare,Storage,Patient Data Backup,India-West,300,1500
+
+2026-02-07,Traffic,Networking,Traffic Monitoring,India-South,180,1300
+2026-02-08,Surveillance,Compute,AI Surveillance,India-West,210,4100
+2026-02-09,Water,Database,Water Analytics DB,India-South,250,3600
+2026-02-10,Electricity,Compute,Smart Grid AI,India-West,190,3700
+2026-02-11,Transport,Networking,Transport Sensors,India-South,170,1400
+2026-02-12,Healthcare,Database,Health Records DB,India-West,220,3400
+
+2026-03-01,Traffic,Compute,Traffic AI,India-South,160,3000
+2026-03-02,Surveillance,Storage,Video Storage,India-West,350,2000
+2026-03-03,Water,Networking,Water Sensors,India-South,200,1200
+2026-03-04,Electricity,Database,Energy DB,India-West,240,3500
+2026-03-05,Transport,Compute,Transport AI,India-South,180,3100
+2026-03-06,Healthcare,Storage,Health Backup,India-West,310,1600
+
+2026-03-07,Traffic,Networking,Signal Network,India-South,150,1100
+2026-03-08,Surveillance,Compute,AI Monitoring,India-West,230,4200
+2026-03-09,Water,Database,Water DB,India-South,260,3700
+2026-03-10,Electricity,Compute,Grid Compute,India-West,200,3600
+2026-03-11,Transport,Networking,Bus Network,India-South,140,1200
+2026-03-12,Healthcare,Compute,Health AI,India-West,210,3800
+
+2026-04-01,Traffic,Compute,Traffic AI,India-South,170,3200
+2026-04-02,Surveillance,Storage,CCTV Storage,India-West,360,2100
+2026-04-03,Water,Networking,Water IoT,India-South,210,1300
+2026-04-04,Electricity,Database,Energy DB,India-West,230,3400
+2026-04-05,Transport,Compute,Route AI,India-South,190,3300
+2026-04-06,Healthcare,Storage,Patient Backup,India-West,320,1700
